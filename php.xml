@@ -8,14 +8,14 @@
     <interpreters>
       <interpreter home="/Applications/XAMPP/xamppfiles/bin/php-5.6.30" id="96e2b535-ab42-4694-9d03-2959abdc21a0" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://qiuyu@192.168.10.2:22/usr/bin/php" id="ae7d4fb6-d2ff-4572-b647-0caa5ec234c0" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.2" PORT="22" USERNAME="qiuyu" PASSWORD="dfdbdfc3dfdfdfd3dfdfdf9bdf98df99" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/qiuyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.10.2" PORT="22" USERNAME="qiuyu" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/qiuyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/php/bin/php-cgi" php_cli="/usr/local/php/bin/php" path_separator=":" remote_host="192.168.9.156 58290 22" version="5.6.22" warning="Cannot load Xdebug - extension already loaded&#10;">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/php/bin/php-cgi" php_cli="/usr/local/php/bin/php" path_separator=":" remote_host="192.168.9.156 58290 22" version="5.6.22">
           <additional_php_ini />
           <configuration_file>/usr/local/php/etc/php.ini</configuration_file>
           <configuration_options>
@@ -227,7 +227,7 @@
             <configuration_option name="user_ini.cache_ttl" value="300" />
             <configuration_option name="user_ini.filename" value=".user.ini" />
             <configuration_option name="variables_order" value="GPCS" />
-            <configuration_option name="xdebug.auto_trace" value="0" />
+            <configuration_option name="xdebug.auto_trace" value="1" />
             <configuration_option name="xdebug.cli_color" value="0" />
             <configuration_option name="xdebug.collect_assignments" value="0" />
             <configuration_option name="xdebug.collect_includes" value="1" />
@@ -265,14 +265,14 @@
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="1" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
-            <configuration_option name="xdebug.remote_log" value="" />
+            <configuration_option name="xdebug.remote_log" value="/tmp/xdebug.log" />
             <configuration_option name="xdebug.remote_mode" value="req" />
-            <configuration_option name="xdebug.remote_port" value="9000" />
+            <configuration_option name="xdebug.remote_port" value="9001" />
             <configuration_option name="xdebug.scream" value="0" />
             <configuration_option name="xdebug.show_error_trace" value="0" />
             <configuration_option name="xdebug.show_exception_trace" value="0" />
@@ -295,11 +295,6 @@
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
             <configuration_option name="zend.script_encoding" value="" />
-            <configuration_option name="zend_loader.disable_licensing" value="0" />
-            <configuration_option name="zend_loader.during_zray_startup" value="0" />
-            <configuration_option name="zend_loader.enable" value="1" />
-            <configuration_option name="zend_loader.max_alloca" value="2048" />
-            <configuration_option name="zend_loader.obfuscation_level_support" value="3" />
             <configuration_option name="zlib.output_compression" value="" />
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
@@ -316,7 +311,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend Guard Loader" />
             <extension name="bcmath" />
             <extension name="ctype" />
             <extension name="curl" />
