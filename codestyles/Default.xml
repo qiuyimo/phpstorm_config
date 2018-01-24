@@ -1,13 +1,17 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="Default">
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="0" />
     <option name="SMART_EDIT_TABLES" value="true" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
-    <option name="FIELDS_DEFAULT_VISIBILITY" value="public" />
     <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
   </PHPCodeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />

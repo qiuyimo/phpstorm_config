@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f93ee58d-9dd4-41e8-88ec-e67ea5feb4f8" name="remote_192.168.10.2_shop" url="http://qiuyu.shop.com">
+        <fileTransfer host="192.168.10.2" port="22" rootFolder="/home/qiuyu/shop" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
