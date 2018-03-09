@@ -6,16 +6,16 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/Applications/MAMP/bin/php/php7.1.1/bin/php" id="96e2b535-ab42-4694-9d03-2959abdc21a0" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="/Applications/MAMP/bin/php/php7.1.1/lib/php/extensions/no-debug-non-zts-20160303/xdebug.so" />
+      <interpreter home="/Applications/MAMP/bin/php/php7.1.8/bin/php" id="96e2b535-ab42-4694-9d03-2959abdc21a0" name="PHP 7.1.8" debugger_id="php.debugger.XDebug" />
       <interpreter home="ssh://qiuyu@192.168.10.2:22/usr/bin/php" id="ae7d4fb6-d2ff-4572-b647-0caa5ec234c0" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.10.2" PORT="22" USERNAME="qiuyu" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/qiuyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="192.168.10.2" PORT="22" USERNAME="qiuyu" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/qiuyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/php/bin/php-cgi" php_cli="/usr/local/php/bin/php" path_separator=":" remote_host="192.168.9.156 58290 22" version="5.6.22">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/php/bin/php-cgi" php_cli="/usr/local/php/bin/php" path_separator=":" remote_host="192.168.9.156" version="5.6.22">
           <additional_php_ini />
           <configuration_file>/usr/local/php/etc/php.ini</configuration_file>
           <configuration_options>
@@ -361,10 +361,10 @@
           </loaded_extensions>
         </phpinfo>
       </interpreter>
-      <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.1/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.1/bin/php" path_separator=":" version="7.1.1">
+      <interpreter name="PHP 7.1.8">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php7.1.8/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php7.1.8/bin/php" path_separator=":" version="7.1.8">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php7.1.1/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php7.1.8/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -414,7 +414,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.1/lib/php/extensions/no-debug-non-zts-20160303/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php7.1.8/lib/php/extensions/no-debug-non-zts-20160303/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -434,7 +434,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.1/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php7.1.8/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -507,7 +507,7 @@
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="32M" />
             <configuration_option name="precision" value="12" />
-            <configuration_option name="realpath_cache_size" value="16K" />
+            <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
@@ -593,13 +593,13 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable" value="1" />
             <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
@@ -694,6 +694,7 @@
             <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
+            <extension name="xmlrpc" />
             <extension name="xmlwriter" />
             <extension name="xsl" />
             <extension name="zip" />
