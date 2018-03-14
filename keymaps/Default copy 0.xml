@@ -1,7 +1,6 @@
 <keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
-  <action id="NextProjectWindow" />
   <action id="OpenProjectWindows">
-    <keyboard-shortcut first-keystroke="meta back_quote" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="PreviousProjectWindow" />
 </keymap>
