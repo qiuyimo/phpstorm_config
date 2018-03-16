@@ -1,10 +1,4 @@
 <keymap version="1" name="Default copy 0" parent="Mac OS X 10.5+">
-  <action id="EditorScrollBottom">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt down" />
-  </action>
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="shift ctrl meta alt up" />
-  </action>
   <action id="OpenProjectWindows">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
