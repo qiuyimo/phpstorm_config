@@ -2,4 +2,7 @@
   <action id="OpenProjectWindows">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="QuickList.Deployment">
+    <keyboard-shortcut first-keystroke="shift meta space" />
+  </action>
 </keymap>
