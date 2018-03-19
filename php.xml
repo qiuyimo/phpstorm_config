@@ -4,13 +4,6 @@
       <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="docker://khs1994/php-fpm:7.2.3-alpine3.7/php" id="feaa8048-2e95-4556-95cc-524bf0350029" name="khs1994/php-fpm:7.2.3-alpine3.7" debugger_id="php.debugger.XDebug" debugger_extension="xdebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="khs1994/php-fpm:7.2.3-alpine3.7" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="khs1994/php-fpm:7.2.3-alpine3.7">
