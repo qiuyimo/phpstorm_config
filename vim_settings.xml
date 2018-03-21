@@ -1,0 +1,82 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1521638589763">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/README.md" timestamp="1521638482027">
+        <mark key="]" line="78" column="13" />
+        <mark key="." line="78" column="13" />
+        <mark key="^" line="78" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521638285576">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="34" />
+        <mark key="m" line="38" column="12" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="/docker-compose.yaml" timestamp="1521637538205" />
+      <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521636696628">
+        <mark key="'" line="232" column="52" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="70" column="6" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
+      <jump line="232" column="52" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
+      <jump line="27" column="12" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="138" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="101" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">IyDov5nkuKrmjIfnmoTmmK8gZG9ja2VyLWNvbXBvc2Ug55qE54mI5pysPyDlvoXnoa7lrpouCnZlcnNpb246ICIzLjUiCnNlcnZpY2VzOgogICMgbmdpbngg55qE6YWN572u6Lev5b6E5Y+v5Lul5p+l55yLIGh0dHBzOi8vZ2l0aHViLmNvbS9uZ2lueGluYy9kb2NrZXItbmdpbngvYmxvYi9kYmQwNTNkNTI3MjdiYzhkYjBmZWM3MDRjYWEyMmI4ZTBkNWY2Yzg0L21haW5saW5lL2FscGluZS9Eb2NrZXJmaWxlCiAgbmdpbng6CiAgICAjIOWQjOaXtuiuvue9ruS6hiBidWlsZCDlkowgaW1hZ2UsIGJ1aWxkIOWQjuS7pSBpbWFnZSDnmoTlrprkuYnlkb3lkI0uIOS+i+Wmgui/meS4quekuuS+iywgaW1hZ2Ug55qE5ZCN56ew5pivIHFpdXl1aG9tZS9uZ2lueDoxLjEzLjktYWxwaW5lCiAgICBidWlsZDoKICAgICAgIyDmjIflrpogYnVpbGQg55qE6Lev5b6ELgogICAgICBjb250ZXh0OiAuL2RvY2tlcmZpbGUuZC9uZ2lueAogICAgICAjIGFyZ3M6CiAgICAgICMgIHZlcnNpb246ICR7TkdJTlhfVkVSU0lPTn0KICAgIGltYWdlOiAke0lNQUdFX1BSRUZJWH0vbmdpbng6JHtOR0lOWF9WRVJTSU9OfQogICAgIyDmmrTpnLLlrrnlmajnq6/lj6PliLDkuLvmnLrnmoTku7vmhI/nq6/lj6PmiJbmjIflrprnq6/lj6MsIOWFtuS7luWuueWZqOWSjOS4u+acuumDveWPr+S7peS9v+eUqOi/meS4querr+WPoy4KICAgIHBvcnRzOgogICAgICAjIDAuMC4wLjDmmK/ku7vmhI9pcAogICAgICAtICR7TkdJTlhfUE9SVH06ODAKICAgICMgbGFiZWxzIOeahOS9nOeUqOaYr+S4uuS6huaWueS+v+WIt+mAieWuueWZqC4gZG9ja2VyIHBzIC1mIGxhYmVscz1jb20ucWl1eXVob21lLmxubXAsIOivpuingeaIkeWPkei1t+eahOmXrumimDogaHR0cHM6Ly9naXRodWIuY29tL2toczE5OTQtZG9ja2VyL2xubXAvaXNzdWVzLzI4MgogICAgbGFiZWxzOgogICAgICAtICR7TEFCRUxfUFJJRklYfS5uZ2lueD10cnVlCiAgICAgIC0gJHtMQUJFTF9QUklGSVh9LmxubXA9dHJ1ZQogICAgIyDmlbDmja7ljbfmiYDmjILovb3ot6/lvoTorr7nva4sIOWPr+S7peiuvue9ruWuv+S4u+acuui3r+W+hO+8iEhPU1Q6Q09OVEFJTkVS77yJ5oiW5Yqg5LiK6K6/6Zeu5qih5byP77yISE9TVDpDT05UQUlORVI6cm/vvIks55Sx77yIOu+8ieWIhumalOeahOS4ieS4quWtl+autee7hOaIkO+8jDzljbflkI0+Ojzlrrnlmajot6/lvoQ+OjzpgInpobnliJfooag+44CC6YCJ6aG55YiX6KGo77yM5aaC77yacm/lj6ror7sKICAgIHZvbHVtZXM6CiAgICAgICMg5rOo5oSP5p2D6ZmQ6Zeu6aKYLiDov5nkuKrmnYPpmZAsIOaMh+eahOaYr+WuueWZqOS4reWvueaMguWcqOeahOi3r+W+hOaJgOaLpeacieeahOadg+mZkC4g5L6L5aaC5LiL6Z2i55qE5Y+q6K+755qE5L6L5a2QLCDlnKjlrrnlmajkuK0sIOWcqC9ldGMvbmdpbngvY29uZi5k5LiL5Yib5bu65paH5Lu25piv5rKh5pyJ5p2D6ZmQ55qELCDlm6DkuLrmsqHmnInlhpnlhaXnmoTmnYPpmZAuCiAgICAgICMg5a655Zmo5Lit55qE6Lev5b6ELCDlpoLmnpzmsqHmnInov5nkuKrot6/lvoQsIOS8muiHquWKqOWIm+W7uiwg5aaC56ys5LiA5Liq5L6L5a2QLCDkvJroh6rliqjliJvlu7ovYXBwCiAgICAgIC0gLi9hcHA6L2FwcDpydwogICAgICAtIC4vY29uZmlnL25naW54Oi9ldGMvbmdpbng6cncKICAgICAgLSAuL2xvZ3Mvbmdpbng6L3Zhci9sb2cvbmdpbng6cncKICAgICMg5LiOIGRvY2tlciBydW4gLXcg55qE5pWI5p6c5LiA5qC3LiDmjIflrprlvZPliY3nmoTlt6XkvZznm67lvZUuIOeugOWNleadpeivtOWwseaYr+WQr+WKqOWuueWZqOS5i+WQjiwg5a655Zmo55qE5b2T5YmN55uu5b2V5bCx5Lya5piv6K6+572u55qE6L+Z5Liq55uu5b2VLiDnu4/mtYvor5UsIOS8muiHquWKqOWIm+W7uui/meS4quebruW9lQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>marks</text>
+      </register>
+      <register name="-" type="4">
+        <text>x</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>marks</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
