@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1521639783865">
+      <file name="/Dummy.txt" timestamp="1521644360506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -14,9 +14,9 @@
         <mark key="." line="78" column="13" />
         <mark key="^" line="78" column="13" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521638285576">
+      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="34" />
+        <mark key="[" line="74" column="38" />
         <mark key="m" line="38" column="12" />
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
