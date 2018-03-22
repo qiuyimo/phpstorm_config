@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521710948079">
+      <file name="/Dummy.txt" timestamp="1521712024052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -21,11 +21,11 @@
       <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
         <mark key="'" line="503" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521646525742">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521712168001">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
         <mark key="[" line="5" column="15" />
@@ -63,13 +63,13 @@
         <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
-      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
+      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521712599758">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="38" />
+        <mark key="[" line="74" column="38" />
         <mark key="m" line="39" column="12" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="5" />
+        <mark key="]" line="75" column="35" />
+        <mark key="^" line="75" column="35" />
+        <mark key="." line="75" column="35" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521636696628">
         <mark key="'" line="232" column="52" />
@@ -109,10 +109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -145,7 +145,7 @@
         <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>21</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -165,9 +165,10 @@
         <entry>set norelationnumber</entry>
         <entry>set norelativenumber</entry>
         <entry>set relativenumber</entry>
-        <entry>wq</entry>
-        <entry>w</entry>
         <entry>21</entry>
+        <entry>wq</entry>
+        <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
