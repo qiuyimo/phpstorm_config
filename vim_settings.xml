@@ -12,6 +12,14 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
+        <mark key="'" line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
         <mark key="[" line="20" column="36" />
         <mark key="]" line="20" column="35" />
@@ -82,6 +90,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
       <jump line="603" column="18" filename="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" />
       <jump line="4264" column="0" filename="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" />
+      <jump line="56" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" />
+      <jump line="108" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -91,7 +101,7 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set relativenumber</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -115,12 +125,15 @@
         <entry>GET</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu</entry>
         <entry>wq</entry>
         <entry>/get</entry>
         <entry>/GET</entry>
         <entry>!ls</entry>
         <entry>w</entry>
+        <entry>set nu</entry>
+        <entry>set norelationnumber</entry>
+        <entry>set norelativenumber</entry>
+        <entry>set relativenumber</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
