@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521703128148">
+      <file name="/Dummy.txt" timestamp="1521705804625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -49,12 +49,12 @@
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
         <mark key="'" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521704064241">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521706336834">
         <mark key="'" line="1790" column="29" />
-        <mark key="[" line="1504" column="38" />
-        <mark key="]" line="1504" column="38" />
-        <mark key="^" line="1504" column="38" />
-        <mark key="." line="1504" column="38" />
+        <mark key="[" line="1848" column="119" />
+        <mark key="]" line="1848" column="119" />
+        <mark key="^" line="1848" column="65" />
+        <mark key="." line="1848" column="119" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
