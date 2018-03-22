@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521705804625">
+      <file name="/Dummy.txt" timestamp="1521709039073">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -45,16 +45,16 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521702585275" />
+      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
         <mark key="'" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521706336834">
-        <mark key="'" line="1790" column="29" />
-        <mark key="[" line="1848" column="119" />
-        <mark key="]" line="1848" column="119" />
-        <mark key="^" line="1848" column="65" />
-        <mark key="." line="1848" column="119" />
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521708828396">
+        <mark key="'" line="1701" column="69" />
+        <mark key="[" line="1706" column="88" />
+        <mark key="]" line="1701" column="68" />
+        <mark key="^" line="1701" column="68" />
+        <mark key="." line="1701" column="68" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
@@ -95,13 +95,17 @@
       <jump line="100" column="52" filename="$USER_HOME$/git/coupons_deals/run_selenium.php" />
       <jump line="1790" column="29" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
       <jump line="17" column="23" filename="$USER_HOME$/git/coupons_deals/run_selenium.php" />
+      <jump line="1802" column="8" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
+      <jump line="1961" column="0" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
+      <jump line="1701" column="69" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
