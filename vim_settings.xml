@@ -3,12 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1521713425734">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/README.md" timestamp="1521638482027">
+        <mark key="]" line="78" column="13" />
+        <mark key="." line="78" column="13" />
+        <mark key="^" line="78" column="13" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
         <mark key="'" line="503" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521712168001">
         <mark key="[" line="4" column="11" />
@@ -22,6 +35,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/git/laravel/app/Http/Controllers/Controller.php" timestamp="1521730344674" />
       <file name="$USER_HOME$/git/coupons_deals/run_selenium.php" timestamp="1521702742329">
         <mark key="'" line="17" column="23" />
         <mark key="[" line="17" column="22" />
@@ -29,32 +43,11 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
-      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521714071654">
-        <mark key="[" line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="/Dummy.txt" timestamp="1521713425734">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
         <mark key="'" line="108" column="0" />
       </file>
@@ -65,6 +58,12 @@
         <mark key="^" line="1701" column="68" />
         <mark key="." line="1701" column="68" />
       </file>
+      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521712599758">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="38" />
@@ -72,6 +71,9 @@
         <mark key="]" line="75" column="35" />
         <mark key="^" line="75" column="35" />
         <mark key="." line="75" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521714071654">
+        <mark key="[" line="0" column="25" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521713482965">
         <mark key="'" line="258" column="52" />
@@ -155,22 +157,10 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>get</entry>
-        <entry>GET</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>/get</entry>
-        <entry>/GET</entry>
-        <entry>!ls</entry>
-        <entry>set nu</entry>
-        <entry>set norelationnumber</entry>
-        <entry>set norelativenumber</entry>
-        <entry>set relativenumber</entry>
-        <entry>21</entry>
+        <entry>marks</entry>
         <entry>wq</entry>
-        <entry>s</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -180,19 +170,7 @@
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
@@ -205,6 +183,18 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
