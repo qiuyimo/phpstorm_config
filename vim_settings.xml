@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521710004717">
+      <file name="/Dummy.txt" timestamp="1521710948079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -56,7 +56,7 @@
         <mark key="^" line="1701" column="68" />
         <mark key="." line="1701" column="68" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521709762989">
+      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
@@ -65,8 +65,8 @@
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="38" />
-        <mark key="m" line="38" column="12" />
+        <mark key="[" line="75" column="38" />
+        <mark key="m" line="39" column="12" />
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
@@ -145,7 +145,7 @@
         <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>21</text>
       </register>
     </registers>
     <search>
@@ -167,6 +167,7 @@
         <entry>set relativenumber</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>21</entry>
       </history-cmd>
       <history-expr />
       <history-input />
