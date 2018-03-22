@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1521646534291">
+      <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521690811441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -14,6 +17,35 @@
         <mark key="." line="78" column="13" />
         <mark key="^" line="78" column="13" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
+        <mark key="'" line="503" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521646525742">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/coupons_deals/run_selenium.php" timestamp="1521691026099">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
+        <mark key="'" line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521690624343">
+        <mark key="'" line="1523" column="23" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="38" />
@@ -22,17 +54,22 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521646525742">
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="3" column="8" />
-      </file>
-      <file name="/docker-compose.yaml" timestamp="1521637538205" />
       <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521636696628">
         <mark key="'" line="232" column="52" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/php/Dockerfile" timestamp="1521646586916" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
+        <mark key="'" line="4264" column="0" />
+        <mark key="[" line="586" column="43" />
+        <mark key="]" line="557" column="18" />
+        <mark key="." line="557" column="18" />
+        <mark key="^" line="557" column="18" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="70" column="6" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
@@ -41,6 +78,9 @@
       <jump line="138" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
       <jump line="101" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="472" column="13" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="503" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="1523" column="23" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -49,17 +89,20 @@
       <register name="1" type="2">
         <text encoding="base64">bXlzcWwtZGF0YS8K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bXlzcWwtZGF0YS8K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>1</text>
+      </register>
+      <register name="/" type="4">
+        <text>GET</text>
       </register>
     </registers>
     <search>
@@ -67,17 +110,42 @@
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>get</entry>
+        <entry>GET</entry>
+      </history-search>
       <history-cmd>
-        <entry>marks</entry>
         <entry>wq</entry>
+        <entry>/get</entry>
+        <entry>/GET</entry>
+        <entry>!ls</entry>
+        <entry>set nu</entry>
+        <entry>set norelationnumber</entry>
+        <entry>set norelativenumber</entry>
+        <entry>set relativenumber</entry>
+        <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
