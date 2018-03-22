@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521709039073">
+      <file name="/Dummy.txt" timestamp="1521710004717">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -21,17 +21,17 @@
       <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
         <mark key="'" line="503" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521646525742">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="3" column="8" />
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521700233080">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
         <mark key="[" line="14" column="0" />
@@ -49,13 +49,20 @@
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
         <mark key="'" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521708828396">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521709602717">
         <mark key="'" line="1701" column="69" />
         <mark key="[" line="1706" column="88" />
         <mark key="]" line="1701" column="68" />
         <mark key="^" line="1701" column="68" />
         <mark key="." line="1701" column="68" />
       </file>
+      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521709762989">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="38" />
@@ -102,10 +109,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GET</text>
