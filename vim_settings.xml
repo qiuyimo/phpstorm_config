@@ -3,137 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1521689272648">
+      <file name="/Dummy.txt" timestamp="1521646534291">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
+      <file name="$USER_HOME$/git/docker/my-lnmp/README.md" timestamp="1521638482027">
+        <mark key="]" line="78" column="13" />
+        <mark key="." line="78" column="13" />
+        <mark key="^" line="78" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="74" column="38" />
+        <mark key="m" line="38" column="12" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521646525742">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="3" column="8" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
-        <mark key="'" line="108" column="0" />
+      <file name="/docker-compose.yaml" timestamp="1521637538205" />
+      <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521636696628">
+        <mark key="'" line="232" column="52" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-      </file>
-      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
-        <mark key="'" line="4264" column="0" />
-        <mark key="[" line="586" column="43" />
-        <mark key="]" line="557" column="18" />
-        <mark key="." line="557" column="18" />
-        <mark key="^" line="557" column="18" />
-      </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/php/Dockerfile" timestamp="1521646586916" />
     </filemarks>
     <jumps>
-      <jump line="2" column="36" filename="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" />
-      <jump line="23" column="0" filename="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" />
-      <jump line="1" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="2" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="3" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="4" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="5" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="6" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="7" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="8" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="9" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="10" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="11" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="12" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="13" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="14" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="15" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="16" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="17" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="18" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="19" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="20" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="21" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="30" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="31" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="32" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="33" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="34" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="36" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="37" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="39" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="40" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="41" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="42" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="43" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="44" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="45" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="46" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="35" column="111" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="22" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="23" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="24" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="25" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="26" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="27" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="28" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="29" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="38" column="45" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="141" column="0" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="215" column="0" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="200" column="164" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" />
-      <jump line="603" column="18" filename="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" />
-      <jump line="4264" column="0" filename="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" />
-      <jump line="56" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" />
-      <jump line="108" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" />
+      <jump line="70" column="6" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
+      <jump line="232" column="52" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
+      <jump line="27" column="12" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="138" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="101" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyDov5nkuKrmjIfnmoTmmK8gZG9ja2VyLWNvbXBvc2Ug55qE54mI5pysPyDlvoXnoa7lrpouCnZlcnNpb246ICIzLjUiCnNlcnZpY2VzOgogICMgbmdpbngg55qE6YWN572u6Lev5b6E5Y+v5Lul5p+l55yLIGh0dHBzOi8vZ2l0aHViLmNvbS9uZ2lueGluYy9kb2NrZXItbmdpbngvYmxvYi9kYmQwNTNkNTI3MjdiYzhkYjBmZWM3MDRjYWEyMmI4ZTBkNWY2Yzg0L21haW5saW5lL2FscGluZS9Eb2NrZXJmaWxlCiAgbmdpbng6CiAgICAjIOWQjOaXtuiuvue9ruS6hiBidWlsZCDlkowgaW1hZ2UsIGJ1aWxkIOWQjuS7pSBpbWFnZSDnmoTlrprkuYnlkb3lkI0uIOS+i+Wmgui/meS4quekuuS+iywgaW1hZ2Ug55qE5ZCN56ew5pivIHFpdXl1aG9tZS9uZ2lueDoxLjEzLjktYWxwaW5lCiAgICBidWlsZDoKICAgICAgIyDmjIflrpogYnVpbGQg55qE6Lev5b6ELgogICAgICBjb250ZXh0OiAuL2RvY2tlcmZpbGUuZC9uZ2lueAogICAgICAjIGFyZ3M6CiAgICAgICMgIHZlcnNpb246ICR7TkdJTlhfVkVSU0lPTn0KICAgIGltYWdlOiAke0lNQUdFX1BSRUZJWH0vbmdpbng6JHtOR0lOWF9WRVJTSU9OfQogICAgIyDmmrTpnLLlrrnlmajnq6/lj6PliLDkuLvmnLrnmoTku7vmhI/nq6/lj6PmiJbmjIflrprnq6/lj6MsIOWFtuS7luWuueWZqOWSjOS4u+acuumDveWPr+S7peS9v+eUqOi/meS4querr+WPoy4KICAgIHBvcnRzOgogICAgICAjIDAuMC4wLjDmmK/ku7vmhI9pcAogICAgICAtICR7TkdJTlhfUE9SVH06ODAKICAgICMgbGFiZWxzIOeahOS9nOeUqOaYr+S4uuS6huaWueS+v+WIt+mAieWuueWZqC4gZG9ja2VyIHBzIC1mIGxhYmVscz1jb20ucWl1eXVob21lLmxubXAsIOivpuingeaIkeWPkei1t+eahOmXrumimDogaHR0cHM6Ly9naXRodWIuY29tL2toczE5OTQtZG9ja2VyL2xubXAvaXNzdWVzLzI4MgogICAgbGFiZWxzOgogICAgICAtICR7TEFCRUxfUFJJRklYfS5uZ2lueD10cnVlCiAgICAgIC0gJHtMQUJFTF9QUklGSVh9LmxubXA9dHJ1ZQogICAgIyDmlbDmja7ljbfmiYDmjILovb3ot6/lvoTorr7nva4sIOWPr+S7peiuvue9ruWuv+S4u+acuui3r+W+hO+8iEhPU1Q6Q09OVEFJTkVS77yJ5oiW5Yqg5LiK6K6/6Zeu5qih5byP77yISE9TVDpDT05UQUlORVI6cm/vvIks55Sx77yIOu+8ieWIhumalOeahOS4ieS4quWtl+autee7hOaIkO+8jDzljbflkI0+Ojzlrrnlmajot6/lvoQ+OjzpgInpobnliJfooag+44CC6YCJ6aG55YiX6KGo77yM5aaC77yacm/lj6ror7sKICAgIHZvbHVtZXM6CiAgICAgICMg5rOo5oSP5p2D6ZmQ6Zeu6aKYLiDov5nkuKrmnYPpmZAsIOaMh+eahOaYr+WuueWZqOS4reWvueaMguWcqOeahOi3r+W+hOaJgOaLpeacieeahOadg+mZkC4g5L6L5aaC5LiL6Z2i55qE5Y+q6K+755qE5L6L5a2QLCDlnKjlrrnlmajkuK0sIOWcqC9ldGMvbmdpbngvY29uZi5k5LiL5Yib5bu65paH5Lu25piv5rKh5pyJ5p2D6ZmQ55qELCDlm6DkuLrmsqHmnInlhpnlhaXnmoTmnYPpmZAuCiAgICAgICMg5a655Zmo5Lit55qE6Lev5b6ELCDlpoLmnpzmsqHmnInov5nkuKrot6/lvoQsIOS8muiHquWKqOWIm+W7uiwg5aaC56ys5LiA5Liq5L6L5a2QLCDkvJroh6rliqjliJvlu7ovYXBwCiAgICAgIC0gLi9hcHA6L2FwcDpydwogICAgICAtIC4vY29uZmlnL25naW54Oi9ldGMvbmdpbng6cncKICAgICAgLSAuL2xvZ3Mvbmdpbng6L3Zhci9sb2cvbmdpbng6cncKICAgICMg5LiOIGRvY2tlciBydW4gLXcg55qE5pWI5p6c5LiA5qC3LiDmjIflrprlvZPliY3nmoTlt6XkvZznm67lvZUuIOeugOWNleadpeivtOWwseaYr+WQr+WKqOWuueWZqOS5i+WQjiwg5a655Zmo55qE5b2T5YmN55uu5b2V5bCx5Lya5piv6K6+572u55qE6L+Z5Liq55uu5b2VLiDnu4/mtYvor5UsIOS8muiHquWKqOWIm+W7uui/meS4quebruW9lQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">bXlzcWwtZGF0YS8K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bXlzcWwtZGF0YS8K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>set relativenumber</text>
+        <text>wq</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
-      </register>
-      <register name="/" type="4">
-        <text>GET</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search>GET</last-search>
-      <last-offset />
-      <last-pattern>GET</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>GET</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>get</entry>
-        <entry>GET</entry>
-      </history-search>
       <history-cmd>
+        <entry>marks</entry>
         <entry>wq</entry>
-        <entry>/get</entry>
-        <entry>/GET</entry>
-        <entry>!ls</entry>
-        <entry>w</entry>
-        <entry>set nu</entry>
-        <entry>set norelationnumber</entry>
-        <entry>set norelativenumber</entry>
-        <entry>set relativenumber</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
@@ -141,19 +77,19 @@
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
