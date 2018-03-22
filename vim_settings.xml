@@ -49,12 +49,12 @@
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
         <mark key="'" line="108" column="0" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521703074663">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521704064241">
         <mark key="'" line="1790" column="29" />
-        <mark key="[" line="1488" column="38" />
-        <mark key="]" line="1488" column="38" />
-        <mark key="^" line="1488" column="38" />
-        <mark key="." line="1488" column="38" />
+        <mark key="[" line="1504" column="38" />
+        <mark key="]" line="1504" column="38" />
+        <mark key="^" line="1504" column="38" />
+        <mark key="." line="1504" column="38" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521644264609">
         <mark key="'" line="0" column="0" />
@@ -98,10 +98,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
