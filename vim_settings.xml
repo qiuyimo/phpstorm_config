@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521788709913">
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
         <mark key="'" line="103" column="24" />
-        <mark key="[" line="165" column="32" />
-        <mark key="]" line="166" column="50" />
+        <mark key="[" line="166" column="51" />
+        <mark key="]" line="166" column="51" />
         <mark key="^" line="166" column="50" />
-        <mark key="." line="166" column="50" />
+        <mark key="." line="166" column="51" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
         <mark key="[" line="3" column="0" />
@@ -37,12 +37,6 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521715021621">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -56,7 +50,7 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="17" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521788945027">
+      <file name="/Dummy.txt" timestamp="1521791390980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -102,6 +96,7 @@
         <mark key="." line="205" column="20" />
         <mark key="^" line="205" column="20" />
       </file>
+      <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1521790944282" />
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521716083941">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="112" column="0" />
@@ -155,10 +150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
