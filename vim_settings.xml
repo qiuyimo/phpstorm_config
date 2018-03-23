@@ -29,6 +29,7 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521774752611" />
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
@@ -43,7 +44,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="/Dummy.txt" timestamp="1521716204968">
+      <file name="/Dummy.txt" timestamp="1521774296823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -51,11 +52,6 @@
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
@@ -74,6 +70,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1521774504193">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521716083941">
         <mark key="'" line="75" column="0" />
@@ -122,10 +123,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyAgICAgIA==</text>
+        <text>local</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyAgICAgIA==</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
