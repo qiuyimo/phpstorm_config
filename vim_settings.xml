@@ -3,12 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521778937464">
         <mark key="'" line="503" column="0" />
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
+        <mark key="^" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
         <mark key="[" line="3" column="0" />
@@ -22,14 +23,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/run_selenium.php" timestamp="1521702742329">
-        <mark key="'" line="17" column="23" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521774752611" />
+      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
@@ -37,6 +31,12 @@
         <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
+      <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521715021621">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -45,7 +45,7 @@
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
       <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
-      <file name="/Dummy.txt" timestamp="1521774296823">
+      <file name="/Dummy.txt" timestamp="1521780753961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -55,10 +55,8 @@
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
-        <mark key="'" line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521709602717">
+      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521779384281">
         <mark key="'" line="1701" column="69" />
         <mark key="[" line="1706" column="88" />
         <mark key="]" line="1701" column="68" />
@@ -72,10 +70,14 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/.env" timestamp="1521774504193">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="." line="1" column="8" />
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1521779392140">
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="10" />
+        <mark key="." line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
+      <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
+        <mark key="[" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521716083941">
         <mark key="'" line="75" column="0" />
@@ -85,12 +87,12 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521776342990">
+      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521780833997">
         <mark key="'" line="61" column="30" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="73" column="0" />
+        <mark key="[" line="54" column="67" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521715963724">
         <mark key="'" line="258" column="52" />
@@ -135,7 +137,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -147,28 +149,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JGFwcC0+Y29uZmlndXJlTW9ub2xvZ1VzaW5nKGZ1bmN0aW9uIChNb25vbG9nXExvZ2dlciAkbG9nKSB7CiAgICAkZmlsZW5hbWUgPSBzdG9yYWdlX3BhdGgoJy9sb2dzLycgLiBwaHBfc2FwaV9uYW1lKCkgLiAnLmxvZycpOwogICAgJGhhbmRsZXIgPSBuZXcgTW9ub2xvZ1xIYW5kbGVyXFJvdGF0aW5nRmlsZUhhbmRsZXIoJGZpbGVuYW1lLCAwLCBcTW9ub2xvZ1xMb2dnZXI6OkRFQlVHLCB0cnVlLCAwNjY0KTsKICAgICRoYW5kbGVyLT5zZXRGb3JtYXR0ZXIobmV3IFxNb25vbG9nXEZvcm1hdHRlclxMaW5lRm9ybWF0dGVyKG51bGwsIG51bGwsIHRydWUsIHRydWUpKTsKICAgICRsb2ctPnB1c2hIYW5kbGVyKCRoYW5kbGVyKTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGFwcC0+Y29uZmlndXJlTW9ub2xvZ1VzaW5nKGZ1bmN0aW9uIChNb25vbG9nXExvZ2dlciAkbG9nKSB7CiAgICAkZmlsZW5hbWUgPSBzdG9yYWdlX3BhdGgoJy9sb2dzLycgLiBwaHBfc2FwaV9uYW1lKCkgLiAnLmxvZycpOwogICAgJGhhbmRsZXIgPSBuZXcgTW9ub2xvZ1xIYW5kbGVyXFJvdGF0aW5nRmlsZUhhbmRsZXIoJGZpbGVuYW1lLCAwLCBcTW9ub2xvZ1xMb2dnZXI6OkRFQlVHLCB0cnVlLCAwNjY0KTsKICAgICRoYW5kbGVyLT5zZXRGb3JtYXR0ZXIobmV3IFxNb25vbG9nXEZvcm1hdHRlclxMaW5lRm9ybWF0dGVyKG51bGwsIG51bGwsIHRydWUsIHRydWUpKTsKICAgICRsb2ctPnB1c2hIYW5kbGVyKCRoYW5kbGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAuL2xvZ3MvbXlzcWwvZXJyb3IubG9nOi92YXIvbG9nL215c3FsL2Vycm9yLmxvZzpydwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JiYgY2htb2QgLVIgNzc3IC92YXIvbG9nL3Bvc3RncmVzcWwK</text>
+        <text encoding="base64">ICAgICAgICBkdW1wKGNvbmZpZygnbWFpbC5zZW5kdG8nKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
