@@ -4,12 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521778937464">
-        <mark key="'" line="503" column="0" />
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521788709913">
+        <mark key="'" line="103" column="24" />
+        <mark key="[" line="165" column="32" />
+        <mark key="]" line="166" column="50" />
+        <mark key="^" line="166" column="50" />
+        <mark key="." line="166" column="50" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
         <mark key="[" line="3" column="0" />
@@ -43,16 +43,39 @@
         <mark key="^" line="1" column="34" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
       <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
-      <file name="/Dummy.txt" timestamp="1521780753961">
+      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1521788761470">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="69" />
+        <mark key="^" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521788945027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="o" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
+        <mark key="[" line="155" column="13" />
+        <mark key="]" line="155" column="37" />
+        <mark key="." line="155" column="37" />
+        <mark key="^" line="155" column="37" />
       </file>
       <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
       <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
@@ -63,14 +86,7 @@
         <mark key="^" line="1701" column="68" />
         <mark key="." line="1701" column="68" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/mysql/Dockerfile" timestamp="1521715009538">
-        <mark key="y" line="1" column="34" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/.env" timestamp="1521779392140">
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1521785516737">
         <mark key="[" line="26" column="10" />
         <mark key="]" line="26" column="10" />
         <mark key="." line="26" column="10" />
@@ -78,6 +94,13 @@
       <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
       <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
         <mark key="[" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" timestamp="1521786354228">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="20" />
+        <mark key="." line="205" column="20" />
+        <mark key="^" line="205" column="20" />
       </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521716083941">
         <mark key="'" line="75" column="0" />
@@ -87,7 +110,7 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521780833997">
+      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521784951914">
         <mark key="'" line="61" column="30" />
         <mark key="[" line="54" column="67" />
         <mark key="]" line="54" column="0" />
@@ -96,12 +119,6 @@
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521715963724">
         <mark key="'" line="258" column="52" />
-      </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
         <mark key="'" line="4264" column="0" />
@@ -131,46 +148,50 @@
       <jump line="1701" column="69" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
       <jump line="75" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
       <jump line="61" column="30" filename="$USER_HOME$/git/spider/bootstrap/app.php" />
+      <jump line="11" column="32" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="504" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="102" column="8" filename="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" />
+      <jump line="103" column="24" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CjEKMgo=</text>
+      <register name="0" type="4">
+        <text>$this</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLyogQHZhciBhcnJheSAkdmFsICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qIEB2YXIgYXJyYXkgJHZhbCAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZzo6aW5mbygn5a2Y5Zyo55u45Ly855qE5qCH6aKYJywgWyd0aXRsZV9pbmRleCcgPT4gJHRpdGxlX2luZGV4LCAnZXhpc3RpbmdfdGl0bGVfaW5kZXgnID0+ICRyZXNbMF1bJ3RpdGxlX2luZGV4J10sICdleGlzdGluZ19yZWZlcl9pZCcgPT4gJHJlc1swXVsncmVmZXJfaWQnXV0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gKCIgICAgICAgICIuJHRpdGxlX2luZGV4LiJcbiIpOwogICAgICAgICAgICAgICAgZWNobyAoIiAgICAgICAgIi4kcmVzWzBdWyd0aXRsZV9pbmRleCddLiJcbiIpOwogICAgICAgICAgICAgICAgZWNobyAoIiAgICAgICAgICAgICIuJHJlc1swXVsncmVmZXJfaWQnXS4iXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGkkdGhpJHRoaXMkdGhpc3NzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBjYQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvLCB0ZXN0IGN1c3RvbSBtb25vbG9nIGNvbmZpZy4KICAgICAgICBMb2c6OmVycm9yKCdlcnJvcl90ZXN0Jyk7CgogICAgICAgIGRpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkdW1wKGNvbmZpZygnbWFpbC5zZW5kdG8nKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
