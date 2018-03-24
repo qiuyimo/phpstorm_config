@@ -3,17 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/docker/my-lnmp/config/php/php/conf.d/docker-php-ext-xdebug.ini" timestamp="1521630270118">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
+        <mark key="'" line="103" column="24" />
+        <mark key="[" line="166" column="51" />
+        <mark key="]" line="166" column="51" />
+        <mark key="^" line="166" column="50" />
+        <mark key="." line="166" column="51" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521689934545">
-        <mark key="'" line="503" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521712168001">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="^" line="3" column="11" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
         <mark key="[" line="5" column="15" />
@@ -21,66 +23,107 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/run_selenium.php" timestamp="1521702742329">
-        <mark key="'" line="17" column="23" />
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-      </file>
+      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521714071654">
-        <mark key="[" line="0" column="25" />
+      <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
+      <file name="$USER_HOME$/blog/_posts/2018-03-23-laravel-monolog.md" timestamp="1521795423939">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/git/test/dependency_injection_container/test3.php" timestamp="1521816756364" />
-      <file name="/Dummy.txt" timestamp="1521816548306">
+      <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
+      <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
+      <file name="/dummy.sql" timestamp="1521794437708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1521788761470">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="69" />
+        <mark key="^" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1521791390980">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="o" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/logs/nginx/access.log" timestamp="1521630977290">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/laravel/app/Http/Controllers/Controller.php" timestamp="1521730904896" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/git/laravel/artisan" timestamp="1521731005050" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1521686218916">
-        <mark key="'" line="108" column="0" />
+      <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
+        <mark key="[" line="155" column="13" />
+        <mark key="]" line="155" column="37" />
+        <mark key="." line="155" column="37" />
+        <mark key="^" line="155" column="37" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521709602717">
+      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
+      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521795715325">
         <mark key="'" line="1701" column="69" />
-        <mark key="[" line="1706" column="88" />
+        <mark key="[" line="118" column="50" />
         <mark key="]" line="1701" column="68" />
         <mark key="^" line="1701" column="68" />
         <mark key="." line="1701" column="68" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" timestamp="1521712599758">
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1521794552812">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
+      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1521794830223" />
+      <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
+        <mark key="[" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" timestamp="1521786354228">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="20" />
+        <mark key="." line="205" column="20" />
+        <mark key="^" line="205" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1521794871144">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="38" />
-        <mark key="m" line="39" column="12" />
-        <mark key="]" line="75" column="35" />
-        <mark key="^" line="75" column="35" />
-        <mark key="." line="75" column="35" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/git/test/monolog/test.php" timestamp="1521869843175" />
-      <file name="$USER_HOME$/git/docker/lnmp/docker-compose.yml" timestamp="1521713482965">
-        <mark key="'" line="258" column="52" />
+      <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1521790944282" />
+      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521795632146">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="54" column="67" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="35" />
-        <mark key="^" line="20" column="35" />
-        <mark key="." line="20" column="35" />
+      <file name="$USER_HOME$/git/spider/app/Models/Top100.php" timestamp="1521793833969" />
+      <file name="$USER_HOME$/git/spider/app/Jobs/SendReminderEmail.php" timestamp="1521794061549">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
       </file>
       <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
         <mark key="'" line="4264" column="0" />
@@ -108,43 +151,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
       <jump line="1961" column="0" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
       <jump line="1701" column="69" filename="$USER_HOME$/git/coupons_deals/selenium.php" />
+      <jump line="75" column="0" filename="$USER_HOME$/git/docker/my-lnmp/docker-compose.yaml" />
+      <jump line="61" column="30" filename="$USER_HOME$/git/spider/bootstrap/app.php" />
+      <jump line="11" column="32" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="504" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="102" column="8" filename="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" />
+      <jump line="103" column="24" filename="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" />
+      <jump line="14" column="17" filename="$USER_HOME$/git/spider/app/Jobs/SendReminderEmail.php" />
+      <jump line="5" column="30" filename="$USER_HOME$/git/spider/app/Console/Commands/Test.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/Test.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyDov5nkuKrmjIfnmoTmmK8gZG9ja2VyLWNvbXBvc2Ug55qE54mI5pysPyDlvoXnoa7lrpouCnZlcnNpb246ICIzLjUiCnNlcnZpY2VzOgogICMgbmdpbngg55qE6YWN572u6Lev5b6E5Y+v5Lul5p+l55yLIGh0dHBzOi8vZ2l0aHViLmNvbS9uZ2lueGluYy9kb2NrZXItbmdpbngvYmxvYi9kYmQwNTNkNTI3MjdiYzhkYjBmZWM3MDRjYWEyMmI4ZTBkNWY2Yzg0L21haW5saW5lL2FscGluZS9Eb2NrZXJmaWxlCiAgbmdpbng6CiAgICAjIOWQjOaXtuiuvue9ruS6hiBidWlsZCDlkowgaW1hZ2UsIGJ1aWxkIOWQjuS7pSBpbWFnZSDnmoTlrprkuYnlkb3lkI0uIOS+i+Wmgui/meS4quekuuS+iywgaW1hZ2Ug55qE5ZCN56ew5pivIHFpdXl1aG9tZS9uZ2lueDoxLjEzLjktYWxwaW5lCiAgICBidWlsZDoKICAgICAgIyDmjIflrpogYnVpbGQg55qE6Lev5b6ELgogICAgICBjb250ZXh0OiAuL2RvY2tlcmZpbGUuZC9uZ2lueAogICAgICAjIGFyZ3M6CiAgICAgICMgIHZlcnNpb246ICR7TkdJTlhfVkVSU0lPTn0KICAgIGltYWdlOiAke0lNQUdFX1BSRUZJWH0vbmdpbng6JHtOR0lOWF9WRVJTSU9OfQogICAgIyDmmrTpnLLlrrnlmajnq6/lj6PliLDkuLvmnLrnmoTku7vmhI/nq6/lj6PmiJbmjIflrprnq6/lj6MsIOWFtuS7luWuueWZqOWSjOS4u+acuumDveWPr+S7peS9v+eUqOi/meS4querr+WPoy4KICAgIHBvcnRzOgogICAgICAjIDAuMC4wLjDmmK/ku7vmhI9pcAogICAgICAtICR7TkdJTlhfUE9SVH06ODAKICAgICMgbGFiZWxzIOeahOS9nOeUqOaYr+S4uuS6huaWueS+v+WIt+mAieWuueWZqC4gZG9ja2VyIHBzIC1mIGxhYmVscz1jb20ucWl1eXVob21lLmxubXAsIOivpuingeaIkeWPkei1t+eahOmXrumimDogaHR0cHM6Ly9naXRodWIuY29tL2toczE5OTQtZG9ja2VyL2xubXAvaXNzdWVzLzI4MgogICAgbGFiZWxzOgogICAgICAtICR7TEFCRUxfUFJJRklYfS5uZ2lueD10cnVlCiAgICAgIC0gJHtMQUJFTF9QUklGSVh9LmxubXA9dHJ1ZQogICAgIyDmlbDmja7ljbfmiYDmjILovb3ot6/lvoTorr7nva4sIOWPr+S7peiuvue9ruWuv+S4u+acuui3r+W+hO+8iEhPU1Q6Q09OVEFJTkVS77yJ5oiW5Yqg5LiK6K6/6Zeu5qih5byP77yISE9TVDpDT05UQUlORVI6cm/vvIks55Sx77yIOu+8ieWIhumalOeahOS4ieS4quWtl+autee7hOaIkO+8jDzljbflkI0+Ojzlrrnlmajot6/lvoQ+OjzpgInpobnliJfooag+44CC6YCJ6aG55YiX6KGo77yM5aaC77yacm/lj6ror7sKICAgIHZvbHVtZXM6CiAgICAgICMg5rOo5oSP5p2D6ZmQ6Zeu6aKYLiDov5nkuKrmnYPpmZAsIOaMh+eahOaYr+WuueWZqOS4reWvueaMguWcqOeahOi3r+W+hOaJgOaLpeacieeahOadg+mZkC4g5L6L5aaC5LiL6Z2i55qE5Y+q6K+755qE5L6L5a2QLCDlnKjlrrnlmajkuK0sIOWcqC9ldGMvbmdpbngvY29uZi5k5LiL5Yib5bu65paH5Lu25piv5rKh5pyJ5p2D6ZmQ55qELCDlm6DkuLrmsqHmnInlhpnlhaXnmoTmnYPpmZAuCiAgICAgICMg5a655Zmo5Lit55qE6Lev5b6ELCDlpoLmnpzmsqHmnInov5nkuKrot6/lvoQsIOS8muiHquWKqOWIm+W7uiwg5aaC56ys5LiA5Liq5L6L5a2QLCDkvJroh6rliqjliJvlu7ovYXBwCiAgICAgIC0gLi9hcHA6L2FwcDpydwogICAgICAtIC4vY29uZmlnL25naW54Oi9ldGMvbmdpbng6cncKICAgICAgLSAuL2xvZ3Mvbmdpbng6L3Zhci9sb2cvbmdpbng6cncKICAgICMg5LiOIGRvY2tlciBydW4gLXcg55qE5pWI5p6c5LiA5qC3LiDmjIflrprlvZPliY3nmoTlt6XkvZznm67lvZUuIOeugOWNleadpeivtOWwseaYr+WQr+WKqOWuueWZqOS5i+WQjiwg5a655Zmo55qE5b2T5YmN55uu5b2V5bCx5Lya5piv6K6+572u55qE6L+Z5Liq55uu5b2VLiDnu4/mtYvor5UsIOS8muiHquWKqOWIm+W7uui/meS4quebruW9lQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUFYX0ZJTEVfU0laRWRkCg==</text>
+        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQoJGh0bWwpOwo=</text>
+        <text encoding="base64">5LuK5aSp5ZyoIFZQUyDkuIrlronoo4UgZmlsZWluZm8g55qE5omp5bGVLCAxOOWNtOaPkOekuumUmeivry4KCgpgYGBzaGVsbApbcm9vdEB2dWx0cl1+L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8jIG1ha2UKbWFrZQovYmluL3NoIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlidG9vbCAtLW1vZGU9Y29tcGlsZSBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAgLURIQVZFX0NPTkZJR19IICAtZyAtTzIgICAtYyAvcm9vdC9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvL2xpYm1hZ2ljL2FwcHJlbnRpY2UuYyAtbyBsaWJtYWdpYy9hcHByZW50aWNlLmxvCiBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAtREhBVkVfQ09ORklHX0ggLWcgLU8yIC1jIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMvYXBwcmVudGljZS5jICAtZlBJQyAtRFBJQyAtbyBsaWJtYWdpYy8ubGlicy9hcHByZW50aWNlLm8KY2M6IOe8luivkeWZqOWGhemDqOmUmeivr++8muW3suadgOatuyjnqIvluo8gY2MxKQpQbGVhc2Ugc3VibWl0IGEgZnVsbCBidWcgcmVwb3J0LAp3aXRoIHByZXByb2Nlc3NlZCBzb3VyY2UgaWYgYXBwcm9wcmlhdGUuClNlZSA8aHR0cDovL2J1Z3ppbGxhLnJlZGhhdC5jb20vYnVnemlsbGE+IGZvciBpbnN0cnVjdGlvbnMuCm1ha2U6ICoqKiBbbGlibWFnaWMvYXBwcmVudGljZS5sb10g6ZSZ6K+vIDEKW3Jvb3RAdnVsdHJdfi9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvIwpgYGAKCuWOn+adpeaYr+WboOS4uuWGheWtmOS4jei2sy4KCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwaXggPSBjZWlsKCRoZWlnaHRUb3RhbCAvIDEwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRoZWlnaHRUb3RhbCA9ICR0aGlzLT5kcml2ZXItPmV4ZWN1dGVTY3JpcHQoJ3JldHVybiBkb2N1bWVudC5ib2R5LnNjcm9sbEhlaWdodDsnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGZvciAoJGkgPSAwOyAkaSA8IDU7ICRpKyspIHsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCfkuIvmu5Hmu5rliqjmnaEgJyAuICgkaSArIDEpKTsKICAgICAgICAgICAgICAgICAgICAkdGhpcy0+ZHJpdmVyLT5leGVjdXRlU2NyaXB0KCd3aW5kb3cuc2Nyb2xsQnkoMCwgMTAwMDApOycpOwogICAgICAgICAgICAgICAgICAgIHNsZWVwKDIpOwogICAgICAgICAgICAgICAgICAgICR0aGlzLT5kcml2ZXItPmV4ZWN1dGVTY3JpcHQoJ3dpbmRvdy5zY3JvbGxCeSgwLCAtNTAwKTsnKTsKICAgICAgICAgICAgICAgICAgICBzbGVlcCg1KTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bXlzcWwtZGF0YS8K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgTmdpbngKCiMjIFBIUAoKIyMgTXlTUUwKCiMjIFBvc3RncmVTUUwKCiMjIFBIUE15QWRtaW4KCiMjIFJlZGlzCg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT4K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyogQHZhciBhcnJheSAkdmFsICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -155,10 +210,22 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>get</entry>
+        <entry>GET</entry>
+      </history-search>
       <history-cmd>
-        <entry>marks</entry>
+        <entry>/get</entry>
+        <entry>/GET</entry>
+        <entry>!ls</entry>
+        <entry>set nu</entry>
+        <entry>set norelationnumber</entry>
+        <entry>set norelativenumber</entry>
+        <entry>set relativenumber</entry>
+        <entry>21</entry>
         <entry>wq</entry>
+        <entry>s</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -168,7 +235,19 @@
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
@@ -182,17 +261,8 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
