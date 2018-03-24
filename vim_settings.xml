@@ -3,7 +3,75 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/test/vendor/composer/autoload_static.php" timestamp="1521871602120" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/dockerfile.d/postgresql/Dockerfile" timestamp="1521714071654">
+        <mark key="[" line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/test/vendor/composer/autoload_namespaces.php" timestamp="1521870930128" />
+      <file name="$USER_HOME$/git/laravel/app/Http/Controllers/Controller.php" timestamp="1521730904896" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/laravel/artisan" timestamp="1521731005050" />
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521795715325">
+        <mark key="'" line="1701" column="69" />
+        <mark key="[" line="118" column="50" />
+        <mark key="]" line="1701" column="68" />
+        <mark key="^" line="1701" column="68" />
+        <mark key="." line="1701" column="68" />
+      </file>
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1521794552812">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1521794871144">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="49" column="55" />
+        <mark key="]" line="49" column="31" />
+        <mark key="." line="49" column="31" />
+        <mark key="^" line="49" column="31" />
+      </file>
+      <file name="$USER_HOME$/git/test/vendor/composer/autoload_real.php" timestamp="1521871727427">
+        <mark key="[" line="25" column="160" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="9" />
+      </file>
+      <file name="$USER_HOME$/git/test/monolog/test.php" timestamp="1521869869985" />
+      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521795632146">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="54" column="67" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Jobs/SendReminderEmail.php" timestamp="1521794061549">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="35" column="29" />
+        <mark key="." line="35" column="29" />
+        <mark key="^" line="35" column="29" />
+      </file>
+      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
+        <mark key="'" line="4264" column="0" />
+        <mark key="[" line="586" column="43" />
+        <mark key="]" line="557" column="18" />
+        <mark key="." line="557" column="18" />
+        <mark key="^" line="557" column="18" />
+      </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
         <mark key="'" line="103" column="24" />
         <mark key="[" line="166" column="51" />
@@ -11,30 +79,32 @@
         <mark key="^" line="166" column="50" />
         <mark key="." line="166" column="51" />
       </file>
-      <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-      </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
+      <file name="$USER_HOME$/git/coupons_deals/run_selenium.php" timestamp="1521702742329">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
+        <mark key="^" line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
       <file name="$USER_HOME$/blog/_posts/2018-03-23-laravel-monolog.md" timestamp="1521795423939">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="/PHP Console" timestamp="1521871112840">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
         <mark key="[" line="3" column="19" />
@@ -42,13 +112,7 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
+      <file name="$USER_HOME$/git/test/dependency_injection_container/test3.php" timestamp="1521816756364" />
       <file name="/dummy.sql" timestamp="1521794437708">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,33 +129,12 @@
         <mark key="." line="0" column="0" />
         <mark key="o" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="9" />
-        <mark key="." line="14" column="9" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
         <mark key="[" line="155" column="13" />
         <mark key="]" line="155" column="37" />
         <mark key="." line="155" column="37" />
         <mark key="^" line="155" column="37" />
       </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
-      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521795715325">
-        <mark key="'" line="1701" column="69" />
-        <mark key="[" line="118" column="50" />
-        <mark key="]" line="1701" column="68" />
-        <mark key="^" line="1701" column="68" />
-        <mark key="." line="1701" column="68" />
-      </file>
-      <file name="$USER_HOME$/git/spider/.env" timestamp="1521794552812">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
-      </file>
-      <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
-      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1521794830223" />
       <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
         <mark key="[" line="121" column="0" />
       </file>
@@ -102,35 +145,11 @@
         <mark key="." line="205" column="20" />
         <mark key="^" line="205" column="20" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1521794871144">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-      </file>
-      <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1521790944282" />
-      <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521795632146">
-        <mark key="'" line="61" column="30" />
-        <mark key="[" line="54" column="67" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/app/Models/Top100.php" timestamp="1521793833969" />
-      <file name="$USER_HOME$/git/spider/app/Jobs/SendReminderEmail.php" timestamp="1521794061549">
-        <mark key="'" line="16" column="17" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="35" column="29" />
-        <mark key="." line="35" column="29" />
-        <mark key="^" line="35" column="29" />
-      </file>
-      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1521683423398">
-        <mark key="'" line="4264" column="0" />
-        <mark key="[" line="586" column="43" />
-        <mark key="]" line="557" column="18" />
-        <mark key="." line="557" column="18" />
-        <mark key="^" line="557" column="18" />
+      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -210,22 +229,10 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>get</entry>
-        <entry>GET</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>/get</entry>
-        <entry>/GET</entry>
-        <entry>!ls</entry>
-        <entry>set nu</entry>
-        <entry>set norelationnumber</entry>
-        <entry>set norelativenumber</entry>
-        <entry>set relativenumber</entry>
-        <entry>21</entry>
+        <entry>marks</entry>
         <entry>wq</entry>
-        <entry>s</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -235,19 +242,7 @@
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift ctrl pressed 2</text>
@@ -261,8 +256,20 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
