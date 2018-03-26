@@ -4,80 +4,28 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
-        <mark key="'" line="103" column="24" />
-        <mark key="[" line="166" column="51" />
-        <mark key="]" line="166" column="51" />
-        <mark key="^" line="166" column="50" />
-        <mark key="." line="166" column="51" />
-      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="2" column="13" />
-      </file>
       <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
-      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
+      <file name="$USER_HOME$/git/spider/config/database.php" timestamp="1522030248199">
+        <mark key="[" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
-      <file name="$USER_HOME$/blog/_posts/2018-03-23-laravel-monolog.md" timestamp="1521795423939">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="18" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
       <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
-      <file name="/dummy.sql" timestamp="1521794437708">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1521788761470">
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="69" />
-        <mark key="^" line="17" column="69" />
-        <mark key="." line="17" column="69" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1522029072950">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="o" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1521685786844">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
-        <mark key="[" line="155" column="13" />
-        <mark key="]" line="155" column="37" />
-        <mark key="." line="155" column="37" />
-        <mark key="^" line="155" column="37" />
-      </file>
-      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
-      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
       <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522029020321">
         <mark key="'" line="1701" column="69" />
         <mark key="[" line="1846" column="33" />
@@ -85,23 +33,13 @@
         <mark key="^" line="1846" column="30" />
         <mark key="." line="1846" column="30" />
       </file>
-      <file name="$USER_HOME$/git/spider/.env" timestamp="1521800621596">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="." line="19" column="13" />
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1522030243091">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
-      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1521794830223" />
-      <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
-        <mark key="[" line="121" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" timestamp="1521786354228">
-        <mark key="'" line="103" column="8" />
-        <mark key="[" line="205" column="12" />
-        <mark key="]" line="205" column="20" />
-        <mark key="." line="205" column="20" />
-        <mark key="^" line="205" column="20" />
-      </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1521794871144">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="55" />
@@ -109,7 +47,6 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1521790944282" />
       <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521795632146">
         <mark key="'" line="61" column="30" />
         <mark key="[" line="54" column="67" />
@@ -132,6 +69,73 @@
         <mark key="." line="557" column="18" />
         <mark key="^" line="557" column="18" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
+        <mark key="'" line="103" column="24" />
+        <mark key="[" line="166" column="51" />
+        <mark key="]" line="166" column="51" />
+        <mark key="^" line="166" column="50" />
+        <mark key="." line="166" column="51" />
+      </file>
+      <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/blog/_posts/2018-03-23-laravel-monolog.md" timestamp="1521795423939">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
+      <file name="/dummy.sql" timestamp="1521794437708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1521788761470">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="69" />
+        <mark key="^" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1522029072950">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="o" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
+        <mark key="[" line="155" column="13" />
+        <mark key="]" line="155" column="37" />
+        <mark key="." line="155" column="37" />
+        <mark key="^" line="155" column="37" />
+      </file>
+      <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
+      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
+      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1521794830223" />
+      <file name="$USER_HOME$/git/spider/config/mail.php" timestamp="1521779625524">
+        <mark key="[" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" timestamp="1521786354228">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="205" column="12" />
+        <mark key="]" line="205" column="20" />
+        <mark key="." line="205" column="20" />
+        <mark key="^" line="205" column="20" />
+      </file>
+      <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1521790944282" />
     </filemarks>
     <jumps>
       <jump line="70" column="6" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
@@ -163,28 +167,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
+        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTE5Mi4xNjguMTAuMgpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y291cG9uc19kZWFscwpEQl9EQVRBQkFTRV8yPXNwaWRlcgpEQl9VU0VSTkFNRT1yb290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoTWFpbGVyICRtYWlsZXIpCg==</text>
+        <text encoding="base64">REJfREFUQUJBU0VfMj1zcGlkZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoTWFpbGVyICRtYWlsZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5LuK5aSp5ZyoIFZQUyDkuIrlronoo4UgZmlsZWluZm8g55qE5omp5bGVLCAxOOWNtOaPkOekuumUmeivry4KCgpgYGBzaGVsbApbcm9vdEB2dWx0cl1+L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8jIG1ha2UKbWFrZQovYmluL3NoIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlidG9vbCAtLW1vZGU9Y29tcGlsZSBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAgLURIQVZFX0NPTkZJR19IICAtZyAtTzIgICAtYyAvcm9vdC9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvL2xpYm1hZ2ljL2FwcHJlbnRpY2UuYyAtbyBsaWJtYWdpYy9hcHByZW50aWNlLmxvCiBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAtREhBVkVfQ09ORklHX0ggLWcgLU8yIC1jIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMvYXBwcmVudGljZS5jICAtZlBJQyAtRFBJQyAtbyBsaWJtYWdpYy8ubGlicy9hcHByZW50aWNlLm8KY2M6IOe8luivkeWZqOWGhemDqOmUmeivr++8muW3suadgOatuyjnqIvluo8gY2MxKQpQbGVhc2Ugc3VibWl0IGEgZnVsbCBidWcgcmVwb3J0LAp3aXRoIHByZXByb2Nlc3NlZCBzb3VyY2UgaWYgYXBwcm9wcmlhdGUuClNlZSA8aHR0cDovL2J1Z3ppbGxhLnJlZGhhdC5jb20vYnVnemlsbGE+IGZvciBpbnN0cnVjdGlvbnMuCm1ha2U6ICoqKiBbbGlibWFnaWMvYXBwcmVudGljZS5sb10g6ZSZ6K+vIDEKW3Jvb3RAdnVsdHJdfi9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvIwpgYGAKCuWOn+adpeaYr+WboOS4uuWGheWtmOS4jei2sy4KCg==</text>
+        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5LuK5aSp5ZyoIFZQUyDkuIrlronoo4UgZmlsZWluZm8g55qE5omp5bGVLCAxOOWNtOaPkOekuumUmeivry4KCgpgYGBzaGVsbApbcm9vdEB2dWx0cl1+L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8jIG1ha2UKbWFrZQovYmluL3NoIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlidG9vbCAtLW1vZGU9Y29tcGlsZSBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAgLURIQVZFX0NPTkZJR19IICAtZyAtTzIgICAtYyAvcm9vdC9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvL2xpYm1hZ2ljL2FwcHJlbnRpY2UuYyAtbyBsaWJtYWdpYy9hcHByZW50aWNlLmxvCiBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAtREhBVkVfQ09ORklHX0ggLWcgLU8yIC1jIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMvYXBwcmVudGljZS5jICAtZlBJQyAtRFBJQyAtbyBsaWJtYWdpYy8ubGlicy9hcHByZW50aWNlLm8KY2M6IOe8luivkeWZqOWGhemDqOmUmeivr++8muW3suadgOatuyjnqIvluo8gY2MxKQpQbGVhc2Ugc3VibWl0IGEgZnVsbCBidWcgcmVwb3J0LAp3aXRoIHByZXByb2Nlc3NlZCBzb3VyY2UgaWYgYXBwcm9wcmlhdGUuClNlZSA8aHR0cDovL2J1Z3ppbGxhLnJlZGhhdC5jb20vYnVnemlsbGE+IGZvciBpbnN0cnVjdGlvbnMuCm1ha2U6ICoqKiBbbGlibWFnaWMvYXBwcmVudGljZS5sb10g6ZSZ6K+vIDEKW3Jvb3RAdnVsdHJdfi9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvIwpgYGAKCuWOn+adpeaYr+WboOS4uuWGheWtmOS4jei2sy4KCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -196,10 +200,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT4K</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
