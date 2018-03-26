@@ -58,7 +58,7 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="17" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521800639381">
+      <file name="/Dummy.txt" timestamp="1522029072950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -78,12 +78,12 @@
       </file>
       <file name="$USER_HOME$/git/coupons_deals/core/config.php" timestamp="1521708791197" />
       <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1521795715325">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522029020321">
         <mark key="'" line="1701" column="69" />
-        <mark key="[" line="118" column="50" />
-        <mark key="]" line="1701" column="68" />
-        <mark key="^" line="1701" column="68" />
-        <mark key="." line="1701" column="68" />
+        <mark key="[" line="1846" column="33" />
+        <mark key="]" line="1846" column="30" />
+        <mark key="^" line="1846" column="30" />
+        <mark key="." line="1846" column="30" />
       </file>
       <file name="$USER_HOME$/git/spider/.env" timestamp="1521800621596">
         <mark key="[" line="19" column="13" />
