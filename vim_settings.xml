@@ -35,13 +35,13 @@
         <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Contracts/Queue/Queue.php" timestamp="1522034056395" />
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522054061012">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522059893869">
         <mark key="p" line="1832" column="0" />
         <mark key="'" line="1701" column="69" />
         <mark key="[" line="1863" column="0" />
-        <mark key="]" line="1863" column="17" />
-        <mark key="^" line="1863" column="17" />
-        <mark key="." line="1863" column="17" />
+        <mark key="]" line="1842" column="48" />
+        <mark key="^" line="1842" column="48" />
+        <mark key="." line="1842" column="48" />
       </file>
       <file name="$USER_HOME$/git/spider/.env" timestamp="1522031674298">
         <mark key="[" line="19" column="15" />
@@ -79,7 +79,7 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1522050823293">
+      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1522059852445">
         <mark key="'" line="4264" column="0" />
         <mark key="[" line="606" column="32" />
         <mark key="]" line="557" column="18" />
@@ -142,7 +142,7 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522052768501">
+      <file name="/Dummy.txt" timestamp="1522059725283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
