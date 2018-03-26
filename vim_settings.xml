@@ -35,13 +35,13 @@
         <mark key="." line="17" column="28" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Contracts/Queue/Queue.php" timestamp="1522034056395" />
-      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522051639958">
+      <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522054061012">
         <mark key="p" line="1832" column="0" />
         <mark key="'" line="1701" column="69" />
-        <mark key="[" line="1843" column="35" />
-        <mark key="]" line="1843" column="35" />
-        <mark key="^" line="1848" column="33" />
-        <mark key="." line="1843" column="35" />
+        <mark key="[" line="1863" column="0" />
+        <mark key="]" line="1863" column="17" />
+        <mark key="^" line="1863" column="17" />
+        <mark key="." line="1863" column="17" />
       </file>
       <file name="$USER_HOME$/git/spider/.env" timestamp="1522031674298">
         <mark key="[" line="19" column="15" />
@@ -142,7 +142,7 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522049635943">
+      <file name="/Dummy.txt" timestamp="1522052768501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -214,11 +214,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/TestRedis.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[$i]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGllZGRkZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>[$i]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -227,15 +227,24 @@
         <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTE5Mi4xNjguMTAuMgpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y291cG9uc19kZWFscwpEQl9EQVRBQkFTRV8yPXNwaWRlcgpEQl9VU0VSTkFNRT1yb290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllZGRkZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllKCkK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZGllKDExMSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaSA9IDA7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>$dealsKey
 $dealsKey
 $dealsKey
@@ -251,20 +260,11 @@ $dealsKey
 $dealsKey
 $dealsKey</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGllOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZHVtcCgkZGVhbHMpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5zZXJ0T3JVcGRhdGVPdmVyKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlX3B1dF9jb250ZW50cygnLi91cGRhdGVNYXhJZC50eHQnLCAkbWF4SWQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWF4SWQgPSAkdGhpcy0+Z2V0TWF4SWQoKTsK</text>
+        <text encoding="base64">ZHVtcCgkZGVhbHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1969</text>
