@@ -11,8 +11,11 @@
         <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
-      <file name="$USER_HOME$/git/spider/config/database.php" timestamp="1522030248199">
-        <mark key="[" line="86" column="30" />
+      <file name="$USER_HOME$/git/spider/config/database.php" timestamp="1522031669210">
+        <mark key="[" line="73" column="41" />
+        <mark key="]" line="73" column="41" />
+        <mark key="^" line="73" column="50" />
+        <mark key="." line="73" column="41" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
       <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
@@ -33,19 +36,19 @@
         <mark key="^" line="1846" column="30" />
         <mark key="." line="1846" column="30" />
       </file>
-      <file name="$USER_HOME$/git/spider/.env" timestamp="1522030243091">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="$USER_HOME$/git/spider/.env" timestamp="1522031674298">
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
         <mark key="^" line="20" column="19" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1521794871144">
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1522032250440">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
+        <mark key="[" line="47" column="83" />
+        <mark key="]" line="47" column="83" />
+        <mark key="." line="47" column="83" />
+        <mark key="^" line="47" column="91" />
       </file>
       <file name="$USER_HOME$/git/spider/bootstrap/app.php" timestamp="1521795632146">
         <mark key="'" line="61" column="30" />
@@ -69,7 +72,7 @@
         <mark key="." line="557" column="18" />
         <mark key="^" line="557" column="18" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1521791388384">
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1522031347656">
         <mark key="'" line="103" column="24" />
         <mark key="[" line="166" column="51" />
         <mark key="]" line="166" column="51" />
@@ -109,7 +112,7 @@
         <mark key="^" line="17" column="69" />
         <mark key="." line="17" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522029072950">
+      <file name="/Dummy.txt" timestamp="1522031393252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -167,10 +170,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
@@ -179,31 +182,31 @@
         <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTE5Mi4xNjguMTAuMgpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y291cG9uc19kZWFscwpEQl9EQVRBQkFTRV8yPXNwaWRlcgpEQl9VU0VSTkFNRT1yb290Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REJfREFUQUJBU0VfMj1zcGlkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoTWFpbGVyICRtYWlsZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
+        <text encoding="base64">ICAgICAgICBEYjo6Y29ubmVjdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5LuK5aSp5ZyoIFZQUyDkuIrlronoo4UgZmlsZWluZm8g55qE5omp5bGVLCAxOOWNtOaPkOekuumUmeivry4KCgpgYGBzaGVsbApbcm9vdEB2dWx0cl1+L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8jIG1ha2UKbWFrZQovYmluL3NoIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlidG9vbCAtLW1vZGU9Y29tcGlsZSBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAgLURIQVZFX0NPTkZJR19IICAtZyAtTzIgICAtYyAvcm9vdC9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvL2xpYm1hZ2ljL2FwcHJlbnRpY2UuYyAtbyBsaWJtYWdpYy9hcHByZW50aWNlLmxvCiBjYyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMgLUkuIC1JL3Jvb3QvbG5tcDEuMy1mdWxsL3NyYy9waHAtNy4xLjEzL2V4dC9maWxlaW5mbyAtRFBIUF9BVE9NX0lOQyAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vaW5jbHVkZSAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbWFpbiAtSS9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL21haW4gLUkvdXNyL2xvY2FsL3BocC9pbmNsdWRlL3BocC9UU1JNIC1JL3Vzci9sb2NhbC9waHAvaW5jbHVkZS9waHAvWmVuZCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dCAtSS91c3IvbG9jYWwvcGhwL2luY2x1ZGUvcGhwL2V4dC9kYXRlL2xpYiAtREhBVkVfQ09ORklHX0ggLWcgLU8yIC1jIC9yb290L2xubXAxLjMtZnVsbC9zcmMvcGhwLTcuMS4xMy9leHQvZmlsZWluZm8vbGlibWFnaWMvYXBwcmVudGljZS5jICAtZlBJQyAtRFBJQyAtbyBsaWJtYWdpYy8ubGlicy9hcHByZW50aWNlLm8KY2M6IOe8luivkeWZqOWGhemDqOmUmeivr++8muW3suadgOatuyjnqIvluo8gY2MxKQpQbGVhc2Ugc3VibWl0IGEgZnVsbCBidWcgcmVwb3J0LAp3aXRoIHByZXByb2Nlc3NlZCBzb3VyY2UgaWYgYXBwcm9wcmlhdGUuClNlZSA8aHR0cDovL2J1Z3ppbGxhLnJlZGhhdC5jb20vYnVnemlsbGE+IGZvciBpbnN0cnVjdGlvbnMuCm1ha2U6ICoqKiBbbGlibWFnaWMvYXBwcmVudGljZS5sb10g6ZSZ6K+vIDEKW3Jvb3RAdnVsdHJdfi9sbm1wMS4zLWZ1bGwvc3JjL3BocC03LjEuMTMvZXh0L2ZpbGVpbmZvIwpgYGAKCuWOn+adpeaYr+WboOS4uuWGheWtmOS4jei2sy4KCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmRpc3BhdGNoKCRqb2IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG9wMTAwID0gVG9wMTAwOjphbGwoKTsKICAgICAgICBmb3JlYWNoICgkdG9wMTAwIGFzICRrZXkgPT4gJHZhbCkgewogICAgICAgICAgICBkdW1wKCdwdXNoIHF1ZXVlLCBpZDogJyAuICR2YWwtPmlkKTsKICAgICAgICAgICAgJGpvYiA9IG5ldyBTZW5kUmVtaW5kZXJFbWFpbCgkdmFsKTsKICAgICAgICAgICAgJGpvYi0+b25RdWV1ZSgnZW1haWxzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REJfREFUQUJBU0VfMj1zcGlkZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBoYW5kbGUoTWFpbGVyICRtYWlsZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGF0Y2gobmV3IFNlbmRSZW1pbmRlckVtYWlsKCR0b3AxMDApKTsK</text>
+        <text encoding="base64">5YWz5o6J5LiA5Lqb6L+b56iLLiDlhoXlrZjlsLHlpJ/kuoYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
