@@ -80,12 +80,12 @@
         <mark key="." line="557" column="18" />
         <mark key="^" line="557" column="18" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1522036998080">
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1522039155894">
         <mark key="'" line="103" column="24" />
-        <mark key="[" line="112" column="39" />
-        <mark key="]" line="166" column="51" />
-        <mark key="^" line="166" column="50" />
-        <mark key="." line="166" column="51" />
+        <mark key="[" line="455" column="35" />
+        <mark key="]" line="114" column="87" />
+        <mark key="^" line="114" column="87" />
+        <mark key="." line="114" column="87" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-22-phpize-error.md" timestamp="1521709944528">
         <mark key="[" line="5" column="15" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
