@@ -29,10 +29,11 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522036797431">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522114764109">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+        <mark key="^" line="17" column="41" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Contracts/Queue/Queue.php" timestamp="1522034056395" />
       <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522059893869">
@@ -136,7 +137,10 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1522047498004">
+      <file name="/dummy.sql" timestamp="1522114943075">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1522114205638">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="16" />
         <mark key="^" line="12" column="16" />
@@ -214,11 +218,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/TestRedis.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGllZGRkZDsK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
