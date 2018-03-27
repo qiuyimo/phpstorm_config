@@ -18,22 +18,26 @@
         <mark key="." line="127" column="48" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
-      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
+      <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_020402_update_top100_table.php" timestamp="1522116721314">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/git/coupons_deals/core/function.php" timestamp="1522047338235">
         <mark key="[" line="290" column="0" />
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522114764109">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522119178616" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522116091877">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_1.sql" timestamp="1522117980733">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Contracts/Queue/Queue.php" timestamp="1522034056395" />
       <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522059893869">
@@ -80,6 +84,12 @@
         <mark key="." line="33" column="27" />
         <mark key="^" line="33" column="28" />
       </file>
+      <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_023953_update_top100_table.php" timestamp="1522118484644">
+        <mark key="[" line="18" column="66" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="18" column="66" />
+        <mark key="^" line="18" column="33" />
+      </file>
       <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1522059852445">
         <mark key="'" line="4264" column="0" />
         <mark key="[" line="606" column="32" />
@@ -109,10 +119,12 @@
       </file>
       <file name="$USER_HOME$/git/76_spider/core/util.php" timestamp="1522047355433" />
       <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" timestamp="1522035425723" />
-      <file name="$USER_HOME$/git/spider/app/Console/Commands/AddAmazonCategoryByText.php" timestamp="1522036778378">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/SetTopParentName.php" timestamp="1522119211326">
+        <mark key="'" line="9" column="22" />
+        <mark key="[" line="56" column="66" />
+        <mark key="]" line="56" column="66" />
+        <mark key="." line="56" column="66" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
@@ -131,14 +143,18 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Providers/EventServiceProvider.php" timestamp="1522036679862">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_024415_update_top100_table.php" timestamp="1522118873594">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="19" column="68" />
+        <mark key="." line="19" column="68" />
+        <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="/dummy.sql" timestamp="1522114943075">
+      <file name="/dummy.sql" timestamp="1522119190600">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/git/spider/app/Spider/HtmlHandle.php" timestamp="1522114205638">
         <mark key="[" line="12" column="16" />
@@ -187,6 +203,12 @@
         <mark key="]" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/git/docker/my-lnmp/app/localhost/index.php" timestamp="1521630229316">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="35" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="70" column="6" filename="$USER_HOME$/git/docker/lnmp/docker-compose.yml" />
@@ -216,59 +238,48 @@
       <jump line="5" column="30" filename="$USER_HOME$/git/spider/app/Console/Commands/Test.php" />
       <jump line="0" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/Test.php" />
       <jump line="21" column="0" filename="$USER_HOME$/git/spider/app/Console/Commands/TestRedis.php" />
+      <jump line="43" column="7" filename="$USER_HOME$/git/spider/app/Console/Commands/SetTopParentName.php" />
+      <jump line="9" column="22" filename="$USER_HOME$/git/spider/app/Console/Commands/SetTopParentName.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>top_</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>top_</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj1teXNxbApEQl9IT1NUPTE5Mi4xNjguMTAuMgpEQl9QT1JUPTMzMDYKREJfREFUQUJBU0U9Y291cG9uc19kZWFscwpEQl9EQVRBQkFTRV8yPXNwaWRlcgpEQl9VU0VSTkFNRT1yb290Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT50aW55SW50ZWdlcigndHdvX2xldmVsX2lkJyktPmRlZmFsdWx0KDApLT5jb21tZW50KCflr7nlupTnmoTniLbnuqfkuoznuqfliIbnsbvnmoRpZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGllZGRkZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCdvbmVfbGV2ZWwnKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGllKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9uZV9sZXZlbCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGllKDExMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJG9uZV9sZXZlbCA9IFRvcDEwMDo6d2hlcmUoJ3VybCcsICR2YWxbJ3RvcF91cmwnXSktPnBsdWNrKCdpZCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllZGRkZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkaSA9IDA7Cg==</text>
+        <text encoding="base64">ZGllKCkK</text>
       </register>
-      <register name="7" type="4">
-        <text>$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey
-$dealsKey</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZGllKDExMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHVtcCgkZGVhbHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1969</text>
