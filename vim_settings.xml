@@ -18,6 +18,16 @@
         <mark key="." line="127" column="48" />
       </file>
       <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_2.sql" timestamp="1522121018414">
+        <mark key="[" line="0" column="98" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="0" column="98" />
+      </file>
+      <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
       <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_020402_update_top100_table.php" timestamp="1522116721314">
         <mark key="[" line="15" column="0" />
@@ -29,7 +39,8 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522119178616" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522120066427" />
+      <file name="$USER_HOME$/sql/coupons_deals_top1003.sql" timestamp="1522121581318" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522116091877">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="41" />
@@ -90,12 +101,12 @@
         <mark key="." line="18" column="66" />
         <mark key="^" line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1522059852445">
-        <mark key="'" line="4264" column="0" />
-        <mark key="[" line="606" column="32" />
-        <mark key="]" line="557" column="18" />
-        <mark key="." line="557" column="18" />
-        <mark key="^" line="557" column="18" />
+      <file name="$USER_HOME$/git/76_spider/instance/amazon/amazon.class.php" timestamp="1522121046855">
+        <mark key="'" line="4265" column="0" />
+        <mark key="[" line="459" column="72" />
+        <mark key="]" line="459" column="72" />
+        <mark key="." line="459" column="72" />
+        <mark key="^" line="459" column="74" />
       </file>
       <file name="$USER_HOME$/git/spider/app/Console/Commands/AmazonTodayDeals.php" timestamp="1522044285748">
         <mark key="'" line="103" column="24" />
@@ -126,6 +137,11 @@
         <mark key="." line="56" column="66" />
         <mark key="^" line="56" column="32" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Console/Commands/AddAmazonCategoryByText.php" timestamp="1522036778378">
+        <mark key="[" line="15" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+      </file>
       <file name="$USER_HOME$/git/coupons_deals/core/init_require.php" timestamp="1521710603594">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="28" />
@@ -143,6 +159,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/git/spider/app/Providers/EventServiceProvider.php" timestamp="1522036679862">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_024415_update_top100_table.php" timestamp="1522118873594">
         <mark key="[" line="17" column="74" />
         <mark key="]" line="19" column="68" />
@@ -150,7 +171,7 @@
         <mark key="^" line="19" column="68" />
       </file>
       <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
-      <file name="/dummy.sql" timestamp="1522119190600">
+      <file name="/dummy.sql" timestamp="1522120056141">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -162,11 +183,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522059725283">
+      <file name="/Dummy.txt" timestamp="1522121560159">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="1" column="0" />
         <mark key="o" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/git/spider/app/Spider/Browser.php" timestamp="1521787284107">
@@ -243,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>top_</text>
+        <text>home, catch error</text>
       </register>
       <register name="-" type="4">
-        <text>top_</text>
+        <text>home, catch error</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
