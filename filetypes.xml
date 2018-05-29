@@ -4,6 +4,7 @@
       <mapping pattern=".gitingone" type="PLAIN_TEXT" />
       <mapping pattern="2018-03-22-phpize-error.md" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gitigonre" type="PLAIN_TEXT" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
