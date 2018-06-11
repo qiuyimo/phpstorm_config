@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="31894cb9-df1f-4e08-a713-0e03f5bb8ce2" name="47.105.105.157 aliyun" url="http://47.105.105.157">
+        <fileTransfer host="47.105.105.157" port="22" rootFolder="/root/docker/lnmp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
