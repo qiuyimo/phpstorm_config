@@ -41,6 +41,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5fd71725-7e0f-49de-aa5d-63ac67843e92" name="144.217.78.76 larave-spider" url="http://144.217.78.76">
+        <fileTransfer host="144.217.78.76" port="22" rootFolder="/home/spider/laravel-spider" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
