@@ -7,7 +7,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.1.8/bin/php" id="011e5ff8-40b0-4d8b-997b-991eb5b2e1ec" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="docker://qiuyuhome/php:7.2.3-fpm-alpine3.7/php" id="ce85e176-de4d-495b-bbc6-d4fdc3445241" name="qiuyuhome/php:7.2.3-fpm-alpine3.7" debugger_id="php.debugger.XDebug">
+      <interpreter home="docker://qiuyuhome/php:7.2.3-fpm-alpine3.7/php" id="40963fd9-aa5b-48e4-ab0a-6e83d16eaf1e" name="qiuyuhome/php:7.2.3-fpm-alpine3.7" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="qiuyuhome/php:7.2.3-fpm-alpine3.7" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
@@ -16,7 +16,7 @@
     <phpInfoCache>
       <interpreter name="qiuyuhome/php:7.2.3-fpm-alpine3.7">
         <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="7.2.3">
-          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-igbinary.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcached.ini, /usr/local/etc/php/conf.d/docker-php-ext-mongodb.ini, /usr/local/etc/php/conf.d/docker-php-ext-mysqli.ini, /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-redis.ini, /usr/local/etc/php/conf.d/docker-php-ext-swoole.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-yaml.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini</additional_php_ini>
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-php-ext-bcmath.ini, /usr/local/etc/php/conf.d/docker-php-ext-gd.ini, /usr/local/etc/php/conf.d/docker-php-ext-igbinary.ini, /usr/local/etc/php/conf.d/docker-php-ext-memcached.ini, /usr/local/etc/php/conf.d/docker-php-ext-mongodb.ini, /usr/local/etc/php/conf.d/docker-php-ext-mysqli.ini, /usr/local/etc/php/conf.d/docker-php-ext-opcache.ini, /usr/local/etc/php/conf.d/docker-php-ext-pcntl.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-pgsql.ini, /usr/local/etc/php/conf.d/docker-php-ext-redis.ini, /usr/local/etc/php/conf.d/docker-php-ext-sodium.ini, /usr/local/etc/php/conf.d/docker-php-ext-swoole.ini, /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini, /usr/local/etc/php/conf.d/docker-php-ext-yaml.ini, /usr/local/etc/php/conf.d/docker-php-ext-zip.ini</additional_php_ini>
           <configuration_file />
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -198,6 +198,12 @@
             <configuration_option name="pcre.jit" value="1" />
             <configuration_option name="pcre.recursion_limit" value="100000" />
             <configuration_option name="pdo_mysql.default_socket" value="" />
+            <configuration_option name="pgsql.allow_persistent" value="1" />
+            <configuration_option name="pgsql.auto_reset_persistent" value="0" />
+            <configuration_option name="pgsql.ignore_notice" value="0" />
+            <configuration_option name="pgsql.log_notice" value="0" />
+            <configuration_option name="pgsql.max_links" value="-1" />
+            <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
             <configuration_option name="phar.readonly" value="1" />
             <configuration_option name="phar.require_hash" value="1" />
@@ -266,7 +272,8 @@
             <configuration_option name="swoole.display_errors" value="On" />
             <configuration_option name="swoole.fast_serialize" value="Off" />
             <configuration_option name="swoole.unixsock_buffer_size" value="8388608" />
-            <configuration_option name="swoole.use_namespace" value="Off" />
+            <configuration_option name="swoole.use_namespace" value="On" />
+            <configuration_option name="swoole.use_shortname" value="On" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="0" />
             <configuration_option name="unserialize_callback_func" value="" />
@@ -400,6 +407,7 @@
             <extension name="pdo_mysql" />
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
             <extension name="posix" />
             <extension name="readline" />
             <extension name="redis" />
