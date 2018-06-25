@@ -8,7 +8,7 @@
     <interpreters>
       <interpreter home="/Applications/MAMP/bin/php/php7.1.8/bin/php" id="011e5ff8-40b0-4d8b-997b-991eb5b2e1ec" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="docker://qiuyuhome/php:7.2.3-fpm-alpine3.7/php" id="40963fd9-aa5b-48e4-ab0a-6e83d16eaf1e" name="qiuyuhome/php:7.2.3-fpm-alpine3.7" debugger_id="php.debugger.XDebug">
-        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="qiuyuhome/php:7.2.3-fpm-alpine3.7" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data DOCKER_ACCOUNT_NAME="qiuyu-docker-lnmp" DOCKER_IMAGE_NAME="qiuyuhome/php:7.2.3-fpm-alpine3.7" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
