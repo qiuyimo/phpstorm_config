@@ -3,32 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/git/coupons_deals/vendor/sunra/php-simple-html-dom-parser/Src/Sunra/PhpSimple/simplehtmldom_1_5/simple_html_dom.php" timestamp="1521702044686" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_2.sql" timestamp="1522121018414">
+        <mark key="[" line="0" column="98" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="0" column="98" />
+      </file>
       <file name="$USER_HOME$/git/docker/my-lnmp/.gitignore" timestamp="1521714503915">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/git/spider/config/app.php" timestamp="1521779286463" />
       <file name="$USER_HOME$/git/spider/config/database.php" timestamp="1522032763831">
         <mark key="[" line="127" column="48" />
         <mark key="]" line="127" column="48" />
         <mark key="^" line="73" column="50" />
         <mark key="." line="127" column="48" />
       </file>
-      <file name="$USER_HOME$/blog/_posts/2018-03-21-xdebug.md" timestamp="1521709914202" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_2.sql" timestamp="1522121018414">
-        <mark key="[" line="0" column="98" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="0" column="98" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_1.sql" timestamp="1522117980733">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/spider/app/Spider/AmazonHandle.php" timestamp="1521787709485">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/storage/logs/cli-2018-03-20.log" timestamp="1521776282132" />
       <file name="$USER_HOME$/git/spider/database/migrations/2018_03_27_020402_update_top100_table.php" timestamp="1522116721314">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -39,18 +38,12 @@
         <mark key="]" line="290" column="0" />
         <mark key="." line="290" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1522120066427" />
-      <file name="$USER_HOME$/sql/coupons_deals_top1003.sql" timestamp="1522121581318" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetAmazonTopUrl.php" timestamp="1522116091877">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="41" />
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d8ae01b6-7344-4c30-8c69-7ce5306e429e/console_1.sql" timestamp="1522117980733">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Contracts/Queue/Queue.php" timestamp="1522034056395" />
       <file name="$USER_HOME$/git/coupons_deals/selenium.php" timestamp="1522059893869">
         <mark key="p" line="1832" column="0" />
         <mark key="'" line="1701" column="69" />
@@ -65,7 +58,6 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/git/spider/vendor/monolog/monolog/src/Monolog/Handler/RotatingFileHandler.php" timestamp="1521777503495" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/Test.php" timestamp="1522032825893">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="33" />
@@ -87,7 +79,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/git/spider/app/Models/Top100.php" timestamp="1521793833969" />
       <file name="$USER_HOME$/git/spider/app/Jobs/SendReminderEmail.php" timestamp="1521799141777">
         <mark key="'" line="16" column="17" />
         <mark key="[" line="33" column="27" />
@@ -128,8 +119,6 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
-      <file name="$USER_HOME$/git/76_spider/core/util.php" timestamp="1522047355433" />
-      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php" timestamp="1522035425723" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/SetTopParentName.php" timestamp="1522119211326">
         <mark key="'" line="9" column="22" />
         <mark key="[" line="56" column="66" />
@@ -153,6 +142,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/code/deal_pure_app/Vue/resources/assets/js/components/pages/AllStores.vue" timestamp="1532924132281">
+        <mark key="[" line="56" column="16" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+        <mark key="^" line="57" column="12" />
+      </file>
       <file name="$USER_HOME$/git/spider/config/email.php" timestamp="1521779335991">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -170,7 +165,6 @@
         <mark key="." line="19" column="68" />
         <mark key="^" line="19" column="68" />
       </file>
-      <file name="$USER_HOME$/git/docker/lnmp/dockerfile/php-fpm/7.2/alpine3.7/Dockerfile" timestamp="1521714054407" />
       <file name="/dummy.sql" timestamp="1522122764211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -202,7 +196,6 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/git/spider/config/selenium.php" timestamp="1521779109967" />
       <file name="$USER_HOME$/git/spider/app/Console/Commands/GetBaseUrl.php" timestamp="1522036806560">
         <mark key="'" line="108" column="0" />
         <mark key="[" line="16" column="28" />
@@ -210,7 +203,6 @@
         <mark key="." line="16" column="28" />
         <mark key="^" line="16" column="28" />
       </file>
-      <file name="$USER_HOME$/git/spider/vendor/laravel/framework/src/Illuminate/Bus/Queueable.php" timestamp="1521794830223" />
       <file name="$USER_HOME$/git/spider/app/Spider/SeleniumProcess.php" timestamp="1521786354228">
         <mark key="'" line="103" column="8" />
         <mark key="[" line="205" column="12" />
@@ -218,7 +210,6 @@
         <mark key="." line="205" column="20" />
         <mark key="^" line="205" column="20" />
       </file>
-      <file name="$USER_HOME$/git/spider/_ide_helper.php" timestamp="1522033691856" />
       <file name="$USER_HOME$/git/spider/config/queue.php" timestamp="1522033424924">
         <mark key="[" line="17" column="38" />
         <mark key="]" line="17" column="38" />
@@ -264,10 +255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>home, catch error</text>
+        <text>this.allChar.push(;</text>
       </register>
       <register name="-" type="4">
-        <text>home, catch error</text>
+        <text>this.allChar.push(;</text>
       </register>
       <register name="/" type="4">
         <text>GET</text>
