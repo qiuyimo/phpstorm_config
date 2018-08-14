@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Flip binary expression" />
   </component>
 </application>
