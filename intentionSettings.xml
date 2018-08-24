@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Generate PHPDoc for function" />
     <ignoreAction name="PHP/Flip binary expression" />
+    <ignoreAction name="Database/Run query in console" />
   </component>
 </application>
