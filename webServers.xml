@@ -65,6 +65,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="1bc9c6cf-6b27-4b37-b20d-3e08f3d73e8c" name="47.105.105.157 laradock" url="http://47.105.105.157">
+        <fileTransfer host="47.105.105.157" port="22" rootFolder="/root/code/laradock" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
