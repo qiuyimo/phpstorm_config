@@ -1,6 +1,12 @@
 <application>
   <component name="DatabaseSettings" version="3">
     <option name="page-size" value="100" />
+    <option name="reuse-result-tab" value="false" />
+    <exec-options>
+      <exec-option new-tab="true" />
+      <exec-option />
+      <exec-option />
+    </exec-options>
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />
