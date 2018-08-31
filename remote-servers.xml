@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="qiuyu-docker-lnmp" type="docker">
+    <remote-server name="laradock" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
