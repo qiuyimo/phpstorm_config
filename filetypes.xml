@@ -3,17 +3,11 @@
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
       <mapping ext="file" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".jshintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".stylelintignore" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
