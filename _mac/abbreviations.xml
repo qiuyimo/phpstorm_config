@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="PhpCSAddToIgnored">
+        <abbreviation name="phpcsignore" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
