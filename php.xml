@@ -448,7 +448,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="b16d1fde-ca38-4a44-b150-9d781978ee45" load_method="CUSTOM_LOADER" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="/Users/qiuyu/phpunit.phar" use_configuration_file="true" />
+      <phpunit_by_interpreter interpreter_id="b16d1fde-ca38-4a44-b150-9d781978ee45" load_method="CUSTOM_LOADER" bootstrap_file_path="/opt/project/vendor/autoload.php" configuration_file_path="/opt/project/phpunit.xml" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="/Users/qiuyu/phpunit.phar" use_bootstrap_file="true" use_configuration_file="true" />
     </phpunit_settings>
   </component>
 </application>
