@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
+      <mapping pattern="tet.txt" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
