@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="CollapseBlock" />
   <action id="ExpandToLevel1">
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="1" />
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad1" />
@@ -8,6 +9,13 @@
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="2" />
     <keyboard-shortcut first-keystroke="meta multiply" second-keystroke="numpad2" />
     <keyboard-shortcut first-keystroke="shift ctrl meta alt 8" second-keystroke="2" />
+  </action>
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="shift meta back_space" />
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift meta down" />
