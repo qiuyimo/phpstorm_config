@@ -6,7 +6,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -30,6 +30,14 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set NULL">
+        <Item>
+          <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Set NULL</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
