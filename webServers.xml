@@ -73,6 +73,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="29e8c94e-a80f-4563-b685-a546636182b6" name="144.217.78.76 admin.ios.apkpure.com" url="http://144.217.78.76">
+        <fileTransfer host="144.217.78.76" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/code/admin.ios.apkpure.com" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
