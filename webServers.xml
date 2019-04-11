@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="dded01ae-db69-4e85-8e6a-f2050bfadc13" name="192.168.9.71" url="http://192.168.9.71">
+        <fileTransfer host="192.168.9.71" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/Users/qiuyu/code" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
