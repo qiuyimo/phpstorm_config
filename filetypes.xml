@@ -2,17 +2,18 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
+      <mapping pattern="NormalizedPNG.php" type="PHP" />
       <mapping pattern="testlog" type="PLAIN_TEXT" />
       <mapping pattern="tet.txt" type="PLAIN_TEXT" />
       <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="pwd" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
-      <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
