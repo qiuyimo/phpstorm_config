@@ -3,7 +3,7 @@
     <property name="created">2019-04-03T18:08:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2019-04-03T19:18:35</property>
+    <property name="modified">2019-05-16T11:14:08</property>
     <property name="originalScheme">_@user_Monokai</property>
   </metaInfo>
   <colors>
@@ -13,6 +13,7 @@
     <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="4d140c" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
     <option name="SELECTION_BACKGROUND" value="9c28fd" />
     <option name="SELECTION_FOREGROUND" value="f6f8e9" />
