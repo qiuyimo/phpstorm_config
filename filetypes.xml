@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="env-demo" type=".env file" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
