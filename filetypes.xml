@@ -8,6 +8,7 @@
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
