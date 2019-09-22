@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="env-demo" type=".env file" />
+      <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
