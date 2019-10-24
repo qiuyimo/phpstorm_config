@@ -1,0 +1,9 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_TYPE_IS_SOCKS" value="true" />
+    <option name="PROXY_HOST" value="192.168.6.40" />
+    <option name="PROXY_PORT" value="2770" />
+    <option name="PROXY_EXCEPTIONS" value="apkfab.test, 192.168.*" />
+    <option name="USE_PAC_URL" value="true" />
+  </component>
+</application>
