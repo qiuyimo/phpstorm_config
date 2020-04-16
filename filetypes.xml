@@ -1,17 +1,34 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
+      <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
       <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
-      <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
