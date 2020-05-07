@@ -13,14 +13,6 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.conf.example" type="SmartyConfig" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
