@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="302e.com" id="7848e1ee-fa03-41c5-a65a-648404b5f128" keyPath="$USER_HOME$/.ssh/id_rsa" port="6123" nameFormat="DESCRIPTIVE" username="root" />
+    </configs>
+  </component>
+</application>

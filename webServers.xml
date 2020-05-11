@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="73527dc9-f0c7-44ee-98ce-b39b403d094d" name="dev">
+        <fileTransfer accessType="SFTP" host="302e.com" port="6123" sshConfigId="7848e1ee-fa03-41c5-a65a-648404b5f128" sshConfig="root@302e.com:6123 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
