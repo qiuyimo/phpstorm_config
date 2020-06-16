@@ -7,9 +7,9 @@
       <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
       <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
