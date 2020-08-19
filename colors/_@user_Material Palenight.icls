@@ -4,12 +4,12 @@
     <property name="created">2020-08-19T16:51:42</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-08-19T17:04:11</property>
+    <property name="modified">2020-08-19T17:26:19</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Courier New" />
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
