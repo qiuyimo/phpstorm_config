@@ -7,6 +7,7 @@
       <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
       <mapping pattern="1539738001" type="PLAIN_TEXT" />
       <mapping pattern="store_domain" type="PLAIN_TEXT" />
+      <mapping pattern="functions" type="PLAIN_TEXT" />
       <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
