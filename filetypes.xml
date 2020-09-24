@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="env-demo" type=".env file" />
       <mapping pattern="env-example" type=".env file" />
+      <mapping ext="stub" type="PHP" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
       <mapping pattern="1539738001" type="PLAIN_TEXT" />
