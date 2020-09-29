@@ -12,6 +12,7 @@
       <mapping pattern="functions" type="PLAIN_TEXT" />
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
       <mapping pattern="2a055dd844422ac0bcace01a76a2b5778da1c8a6" type="PLAIN_TEXT" />
+      <mapping pattern="aaaa" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
