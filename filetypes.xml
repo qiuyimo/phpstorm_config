@@ -20,6 +20,7 @@
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="*.conf.example" type="SmartyConfig" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
