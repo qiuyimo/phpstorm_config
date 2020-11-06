@@ -4,6 +4,7 @@
       <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
       <mapping pattern="blade.php" type="Blade" />
+      <mapping pattern="Envoy.blade.php" type="Blade" />
       <mapping ext="cnf" type="Ini" />
       <mapping ext="stub" type="PHP" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
