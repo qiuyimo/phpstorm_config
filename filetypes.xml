@@ -16,11 +16,13 @@
       <mapping pattern="aaaa" type="PLAIN_TEXT" />
       <mapping pattern="google_play_top10" type="PLAIN_TEXT" />
       <mapping pattern="google topten(1)" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="store_domain" type="PLAIN_TEXT" />
       <mapping pattern="2a055dd844422ac0bcace01a76a2b5778da1c8a6" type="PLAIN_TEXT" />
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
