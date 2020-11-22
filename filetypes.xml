@@ -14,6 +14,7 @@
       <mapping pattern="docker" type="PLAIN_TEXT" />
       <mapping pattern="functions" type="PLAIN_TEXT" />
       <mapping pattern="aliyun_apt_source" type="PLAIN_TEXT" />
+      <mapping pattern="nfs" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="know_hosts" type="PLAIN_TEXT" />
       <mapping pattern="1539738001" type="PLAIN_TEXT" />
