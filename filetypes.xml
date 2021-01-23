@@ -1,10 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
-      <removed_mapping pattern="main.yaml" type="Ansible" />
-      <removed_mapping pattern="main.yml" approved="true" type="Ansible" />
       <mapping pattern="blade.php" type="Blade" />
       <mapping pattern="Envoy.blade.php" type="Blade" />
       <mapping pattern="" type="Ini" />
@@ -38,15 +36,15 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern="*.conf.example" type="SmartyConfig" />
-      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.development.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.local" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.production" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.production.local" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="main.yml" approved="true" type="Ansible" />
     </extensionMap>
   </component>
