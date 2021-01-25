@@ -1,6 +1,100 @@
 <application>
   <component name="OrchideApplication">
     <option name="fileTypePatternMigratedForCollections" value="true" />
+    <option name="patterns">
+      <list>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Playbook" />
+          <option name="pattern" value=".*/playbooks?/[^\/].*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Playbook" />
+          <option name="pattern" value=".*/ansible/[^\/]*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Playbook" />
+          <option name="pattern" value=".*/playbooks?/[(vars|defaults|config|tasks?)]/.*\.ya?ml" />
+          <option name="type" value="Exclude" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="PlaybookFolder" />
+          <option name="pattern" value=".*/playbooks?/[^\/]+/[^\/]*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleTask" />
+          <option name="pattern" value=".*/roles.*/.*/tasks/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleTask" />
+          <option name="pattern" value=".*/roles.*/.*/.*/tasks/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleTask" />
+          <option name="pattern" value=".*/roles.*/.*/handlers/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleVariable" />
+          <option name="pattern" value=".*/roles.*/%s/defaults/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleVariable" />
+          <option name="pattern" value=".*/roles.*/%s/meta/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleVariable" />
+          <option name="pattern" value=".*/roles.*/%s/vars/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/group_vars/.*/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/group_vars/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/host_vars/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/roles.*/.*/defaults/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/roles.*/.*/meta/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/roles.*/.*/vars/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/playbooks?/.*/defaults/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="Variable" />
+          <option name="pattern" value=".*/playbooks?/.*/vars/.*\.ya?ml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
+      </list>
+    </option>
     <option name="useOrchideAsDefaultYamlPlugin" value="true" />
   </component>
 </application>
