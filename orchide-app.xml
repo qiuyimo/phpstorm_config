@@ -29,7 +29,7 @@
           <option name="type" value="Include" />
         </OrchideAnsibleMappingPattern>
         <OrchideAnsibleMappingPattern>
-          <option name="ansibleType" value="RoleTask" />
+          <option name="ansibleType" value="Task" />
           <option name="pattern" value=".*/roles.*/.*/.*/tasks/.*\.ya?ml" />
           <option name="type" value="Include" />
         </OrchideAnsibleMappingPattern>
@@ -88,13 +88,7 @@
           <option name="pattern" value=".*/playbooks?/.*/defaults/.*\.ya?ml" />
           <option name="type" value="Include" />
         </OrchideAnsibleMappingPattern>
-        <OrchideAnsibleMappingPattern>
-          <option name="ansibleType" value="Variable" />
-          <option name="pattern" value=".*/playbooks?/.*/vars/.*\.ya?ml" />
-          <option name="type" value="Include" />
-        </OrchideAnsibleMappingPattern>
       </list>
     </option>
-    <option name="useOrchideAsDefaultYamlPlugin" value="true" />
   </component>
 </application>
