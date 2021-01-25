@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
-      <removed_mapping pattern="main.yaml" type="Ansible" />
+      <mapping pattern="main.yaml" type="Ansible" />
       <mapping pattern="blade.php" type="Blade" />
       <mapping pattern="Envoy.blade.php" type="Blade" />
       <mapping pattern="" type="Ini" />
@@ -37,10 +37,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping pattern="*.conf.example" type="SmartyConfig" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
+      <removed_mapping pattern="main.yaml" type="YAML" />
       <removed_mapping ext="cnf" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.development" approved="true" type="PLAIN_TEXT" />
