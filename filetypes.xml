@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
-      <mapping pattern="main.yaml" type="Ansible" />
       <mapping pattern="blade.php" type="Blade" />
       <mapping pattern="Envoy.blade.php" type="Blade" />
       <mapping pattern="" type="Ini" />
@@ -49,6 +48,7 @@
       <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="main.yml" approved="true" type="Ansible" />
+      <mapping pattern="main.yaml" type="Ansible" />
     </extensionMap>
   </component>
 </application>
