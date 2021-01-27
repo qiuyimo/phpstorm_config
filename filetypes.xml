@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="env-example" type=".env file" />
       <mapping pattern="env-demo" type=".env file" />
+      <mapping pattern="htpasswd" type="AUTO_DETECTED" />
       <mapping pattern="blade.php" type="Blade" />
       <mapping pattern="Envoy.blade.php" type="Blade" />
       <mapping pattern="" type="Ini" />
