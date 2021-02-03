@@ -88,7 +88,13 @@
           <option name="pattern" value=".*/playbooks?/.*/vars/.*\.ya?ml" />
           <option name="type" value="Include" />
         </OrchideAnsibleMappingPattern>
+        <OrchideAnsibleMappingPattern>
+          <option name="ansibleType" value="RoleTask" />
+          <option name="pattern" value="tasks/.*\.yml" />
+          <option name="type" value="Include" />
+        </OrchideAnsibleMappingPattern>
       </list>
     </option>
+    <option name="useOrchideAsDefaultYamlPlugin" value="true" />
   </component>
 </application>

@@ -49,7 +49,6 @@
       <removed_mapping pattern=".env.test" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.test.local" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="main.yml" approved="true" type="Ansible" />
-      <mapping pattern="main.yaml" type="Ansible" />
     </extensionMap>
   </component>
 </application>
