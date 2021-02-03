@@ -1,6 +1,5 @@
 <application>
   <component name="OrchideApplication">
     <option name="fileTypePatternMigratedForCollections" value="true" />
-    <option name="useOrchideAsDefaultYamlPlugin" value="true" />
   </component>
 </application>
