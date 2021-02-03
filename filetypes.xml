@@ -27,7 +27,6 @@
       <mapping pattern="store_domain" type="PLAIN_TEXT" />
       <mapping pattern="2a055dd844422ac0bcace01a76a2b5778da1c8a6" type="PLAIN_TEXT" />
       <mapping ext="demo" type="PLAIN_TEXT" />
-      <mapping ext="nginx" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
